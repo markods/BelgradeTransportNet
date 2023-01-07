@@ -1,0 +1,9 @@
+service_id,date,exception_type
+Zimski-Radni Dan,20191111,2
+Zimski-Subota,20191111,1
+Zimski-Radni Dan,20200101,2
+Zimski-Radni Dan,20200102,2
+Zimski-Radni Dan,20200107,2
+Zimski-Nedelja Dan,20200101,1
+Zimski-Nedelja Dan,20200102,1
+Zimski-Nedelja Dan,20200107,1

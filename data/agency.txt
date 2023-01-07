@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+1,Gradska uprava grada Beograda Sekretarijat za javni prevoz,http://www.bgprevoz.rs,Europe/Belgrade,sr,+381(11)3300-801,http://www.bgprevoz.rs/naplata/cene-karata/nepersonalizovana-kartica
