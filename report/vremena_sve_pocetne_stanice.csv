@@ -1,0 +1,1015 @@
+,route_short_name,stop_name,service_id,average_wait
+0,22L,Trg Slavija,Zimski-Radni Dan,0:04:23.007519
+1,22L,Trg Slavija,Zimski-Nedelja,0:05:36.346154
+2,22L,Trg Slavija,Zimski-Subota,0:05:36.346154
+3,22L,Studentski Trg,Zimski-Radni Dan,0:04:25.168539
+4,22L,Studentski Trg,Zimski-Subota,0:05:38.755981
+5,22L,Studentski Trg,Zimski-Nedelja,0:05:38.755981
+6,31,Studentski Trg,Zimski-Radni Dan,0:05:46.733668
+7,31,Studentski Trg,Zimski-Subota,0:07:36.953642
+8,31,Studentski Trg,Zimski-Nedelja,0:09:16.451613
+9,E9,Studentski Trg,Zimski-Radni Dan,0:11:48.648649
+10,26,Naselje Braće Jerković,Zimski-Radni Dan,0:05:06.756757
+11,26,Naselje Braće Jerković,Zimski-Subota,0:07:25.098039
+12,26,Naselje Braće Jerković,Zimski-Nedelja,0:08:43.846154
+13,26,Dorćol /Dunavska/,Zimski-Radni Dan,0:05:13.761468
+14,26,Dorćol /Dunavska/,Zimski-Subota,0:07:45.306122
+15,26,Dorćol /Dunavska/,Zimski-Nedelja,0:08:54.375000
+16,29A,Medaković 3,Zimski-Radni Dan,0:05:36.231884
+17,29A,Medaković 3,Zimski-Subota,0:08:08.028169
+18,29A,Medaković 3,Zimski-Nedelja,0:08:08.028169
+19,18,Medaković 3,Zimski-Radni Dan,0:08:20
+20,26L,Medaković 3,Zimski-Radni Dan,0:08:31.525424
+21,18,Medaković 3,Zimski-Subota,0:10:46.788991
+22,18,Medaković 3,Zimski-Nedelja,0:11:31.176471
+23,26L,Medaković 3,Zimski-Subota,0:17:04.137931
+24,26L,Medaković 3,Zimski-Nedelja,0:17:04.137931
+25,29A,Trg Slavija,Zimski-Radni Dan,0:05:40.191388
+26,29A,Trg Slavija,Zimski-Nedelja,0:08:10.344828
+27,29A,Trg Slavija,Zimski-Subota,0:08:10.344828
+28,21A,Trg Slavija,Zimski-Radni Dan,0:10:07.894737
+29,21A,Trg Slavija,Zimski-Subota,0:17:14.328358
+30,21A,Trg Slavija,Zimski-Nedelja,0:17:14.328358
+31,31,Konjarnik,Zimski-Radni Dan,0:05:46.039604
+32,31,Konjarnik,Zimski-Subota,0:07:39.868421
+33,31,Konjarnik,Zimski-Nedelja,0:09:23.709677
+34,309,Kaluđerica,Zimski-Radni Dan,0:06:02.436548
+35,309,Kaluđerica,Zimski-Subota,0:08:56.842105
+36,309,Kaluđerica,Zimski-Nedelja,0:08:56.842105
+37,309,Zvezdara /Pijaca/,Zimski-Radni Dan,0:06:07.539267
+38,309,Zvezdara /Pijaca/,Zimski-Subota,0:09:00
+39,309,Zvezdara /Pijaca/,Zimski-Nedelja,0:09:00
+40,16,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:06:07.741935
+41,16,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:10:57.692308
+42,16,Novi Beograd /Paviljoni/,Zimski-Subota,0:10:57.692308
+43,611,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:16:05.753425
+44,610,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:17:27.761194
+45,82,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:17:49.354839
+46,81,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:18:00
+47,82,Novi Beograd /Paviljoni/,Zimski-Subota,0:19:23.157895
+48,82,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:19:23.157895
+49,81L,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:19:29.491525
+50,611,Novi Beograd /Paviljoni/,Zimski-Subota,0:25:20
+51,611,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:25:20
+52,610,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:27:12.558140
+53,610,Novi Beograd /Paviljoni/,Zimski-Subota,0:27:12.558140
+54,81,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:33:26.250000
+55,81,Novi Beograd /Paviljoni/,Zimski-Subota,0:33:26.250000
+56,81L,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:33:45
+57,81L,Novi Beograd /Paviljoni/,Zimski-Subota,0:33:45
+58,613,Novi Beograd /Paviljoni/,Zimski-Subota,0:43:20
+59,613,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:43:20
+60,612,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:47:30
+61,612,Novi Beograd /Paviljoni/,Zimski-Subota,0:47:30
+62,711,Novi Beograd /Paviljoni/,Zimski-Radni Dan,0:47:55
+63,711,Novi Beograd /Paviljoni/,Zimski-Subota,0:47:55
+64,711,Novi Beograd /Paviljoni/,Zimski-Nedelja,0:47:55
+65,613,Novi Beograd /Paviljoni/,Zimski-Nedelja,1:21:00
+66,607,Novi Beograd /Paviljoni/,Zimski-Subota,1:31:52.500000
+67,607,Novi Beograd /Paviljoni/,Zimski-Radni Dan,1:31:52.500000
+68,607,Novi Beograd /Paviljoni/,Zimski-Nedelja,1:31:52.500000
+69,612,Novi Beograd /Paviljoni/,Zimski-Nedelja,1:32:00
+70,16,Karaburma 2,Zimski-Radni Dan,0:06:10.588235
+71,16,Karaburma 2,Zimski-Nedelja,0:11:00
+72,16,Karaburma 2,Zimski-Subota,0:11:00
+73,41,Studentski Trg,Zimski-Radni Dan,0:06:25.714286
+74,41,Studentski Trg,Zimski-Nedelja,0:06:45.780347
+75,41,Studentski Trg,Zimski-Subota,0:06:45.780347
+76,28,Studentski Trg,Zimski-Radni Dan,0:09:47.394958
+77,28,Studentski Trg,Zimski-Subota,0:10:35.454545
+78,28,Studentski Trg,Zimski-Nedelja,0:10:35.454545
+79,50,Banovo Brdo,Zimski-Radni Dan,0:06:27.428571
+80,50,Banovo Brdo,Zimski-Subota,0:08:25.970149
+81,50,Banovo Brdo,Zimski-Nedelja,0:10:51.923077
+82,49,Banovo Brdo,Zimski-Radni Dan,0:14:25.714286
+83,85,Banovo Brdo,Zimski-Radni Dan,0:16:42.985075
+84,49,Banovo Brdo,Zimski-Nedelja,0:18:42.222222
+85,49,Banovo Brdo,Zimski-Subota,0:18:42.222222
+86,57,Banovo Brdo,Zimski-Radni Dan,0:19:36.470588
+87,85,Banovo Brdo,Zimski-Subota,0:19:38.947368
+88,85,Banovo Brdo,Zimski-Nedelja,0:22:14.693878
+89,57,Banovo Brdo,Zimski-Subota,0:38:27.692308
+90,57,Banovo Brdo,Zimski-Nedelja,0:38:27.692308
+91,41,Banjica 2,Zimski-Radni Dan,0:06:32.571429
+92,41,Banjica 2,Zimski-Nedelja,0:06:47.017544
+93,41,Banjica 2,Zimski-Subota,0:06:47.017544
+94,40,Banjica 2,Zimski-Radni Dan,0:09:23.157895
+95,40,Banjica 2,Zimski-Nedelja,0:10:19.223301
+96,40,Banjica 2,Zimski-Subota,0:10:19.223301
+97,78,Banjica 2,Zimski-Radni Dan,0:10:36.363636
+98,78,Banjica 2,Zimski-Subota,0:17:00
+99,78,Banjica 2,Zimski-Nedelja,0:18:12.857143
+100,50,Bulevar Kralja Aleksandra,Zimski-Radni Dan,0:06:33.641618
+101,50,Bulevar Kralja Aleksandra,Zimski-Subota,0:08:24.545455
+102,50,Bulevar Kralja Aleksandra,Zimski-Nedelja,0:10:52.941176
+103,E1,Bulevar Kralja Aleksandra,Zimski-Radni Dan,0:29:00
+104,E1,Bulevar Kralja Aleksandra,Zimski-Subota,0:29:00
+105,37,Žs Pančevački Most,Zimski-Radni Dan,0:06:39.375000
+106,37,Žs Pančevački Most,Zimski-Subota,0:10:14.423077
+107,96,Žs Pančevački Most,Zimski-Nedelja,0:11:33
+108,96,Žs Pančevački Most,Zimski-Subota,0:11:33
+109,96,Žs Pančevački Most,Zimski-Radni Dan,0:11:47.142857
+110,37,Žs Pančevački Most,Zimski-Nedelja,0:13:28.860759
+111,58,Žs Pančevački Most,Zimski-Radni Dan,0:14:42.857143
+112,58,Žs Pančevački Most,Zimski-Subota,0:18:23.571429
+113,58,Žs Pančevački Most,Zimski-Nedelja,0:26:24.615385
+114,37,Kneževac,Zimski-Radni Dan,0:06:42.909091
+115,3A,Kneževac,Zimski-Radni Dan,0:10:10.344828
+116,37,Kneževac,Zimski-Subota,0:10:28.301887
+117,3A,Kneževac,Zimski-Subota,0:12:17.500000
+118,3A,Kneževac,Zimski-Nedelja,0:12:17.500000
+119,37,Kneževac,Zimski-Nedelja,0:13:42.222222
+120,507,Kneževac,Zimski-Subota,0:34:11.612903
+121,507,Kneževac,Zimski-Nedelja,0:34:11.612903
+122,507,Kneževac,Zimski-Radni Dan,0:34:11.612903
+123,95,Blok 45,Zimski-Radni Dan,0:06:44.733728
+124,95,Blok 45,Zimski-Subota,0:08:15.652174
+125,95,Blok 45,Zimski-Nedelja,0:08:42.137405
+126,94,Blok 45,Zimski-Radni Dan,0:09:22.500000
+127,73,Blok 45,Zimski-Radni Dan,0:11:35.876289
+128,94,Blok 45,Zimski-Subota,0:11:43.125000
+129,94,Blok 45,Zimski-Nedelja,0:12:13.695652
+130,73,Blok 45,Zimski-Subota,0:12:47.045455
+131,73,Blok 45,Zimski-Nedelja,0:19:02.033898
+132,E6,Blok 45,Zimski-Radni Dan,0:19:33.913043
+133,E6,Blok 45,Zimski-Subota,0:19:33.913043
+134,604,Blok 45,Zimski-Radni Dan,0:20:15.789474
+135,605,Blok 45,Zimski-Radni Dan,0:22:35.769231
+136,E1,Blok 45,Zimski-Radni Dan,0:29:00
+137,E1,Blok 45,Zimski-Subota,0:29:00
+138,605,Blok 45,Zimski-Subota,0:34:07.058824
+139,605,Blok 45,Zimski-Nedelja,0:34:07.058824
+140,604,Blok 45,Zimski-Subota,0:39:18.620690
+141,604,Blok 45,Zimski-Nedelja,0:39:18.620690
+142,511,Beograd Na Vodi,Zimski-Radni Dan,0:06:45.172414
+143,511,Beograd Na Vodi,Zimski-Subota,0:10:13.157895
+144,511,Beograd Na Vodi,Zimski-Nedelja,0:10:18.584071
+145,51,Beograd Na Vodi,Zimski-Radni Dan,0:11:11.875000
+146,51,Beograd Na Vodi,Zimski-Nedelja,0:14:27.567568
+147,51,Beograd Na Vodi,Zimski-Subota,0:14:27.567568
+148,48,Miljakovac 3,Zimski-Radni Dan,0:06:46.875000
+149,48,Miljakovac 3,Zimski-Subota,0:09:51.818182
+150,48,Miljakovac 3,Zimski-Nedelja,0:11:04.285714
+151,95,Borča 3,Zimski-Radni Dan,0:06:49.058824
+152,95,Borča 3,Zimski-Subota,0:08:08.028169
+153,95,Borča 3,Zimski-Nedelja,0:08:53.076923
+154,96,Borča 3,Zimski-Nedelja,0:11:45.154639
+155,96,Borča 3,Zimski-Subota,0:11:45.154639
+156,96,Borča 3,Zimski-Radni Dan,0:12:00
+157,511,Sremčica,Zimski-Radni Dan,0:06:49.714286
+158,511,Sremčica,Zimski-Nedelja,0:10:07.627119
+159,511,Sremčica,Zimski-Subota,0:10:12.820513
+160,48,Žs Pančevački Most,Zimski-Radni Dan,0:06:57.073171
+161,33,Žs Pančevački Most,Zimski-Radni Dan,0:07:45.517241
+162,33,Žs Pančevački Most,Zimski-Subota,0:09:52.105263
+163,48,Žs Pančevački Most,Zimski-Subota,0:09:54.782609
+164,48,Žs Pančevački Most,Zimski-Nedelja,0:11:24
+165,33,Žs Pančevački Most,Zimski-Nedelja,0:12:30
+166,23,Vidikovac,Zimski-Radni Dan,0:07:03.636364
+167,23,Vidikovac,Zimski-Subota,0:09:32.950820
+168,23,Vidikovac,Zimski-Nedelja,0:09:32.950820
+169,53,Vidikovac,Zimski-Radni Dan,0:11:32.783505
+170,53,Vidikovac,Zimski-Subota,0:12:18.461538
+171,53,Vidikovac,Zimski-Nedelja,0:12:33.333333
+172,23,Karaburma 2,Zimski-Radni Dan,0:07:05.925926
+173,23,Karaburma 2,Zimski-Nedelja,0:09:25.573770
+174,23,Karaburma 2,Zimski-Subota,0:09:25.573770
+175,27,Trg Republike,Zimski-Radni Dan,0:07:09.878049
+176,27,Trg Republike,Zimski-Subota,0:09:47.500000
+177,27,Trg Republike,Zimski-Nedelja,0:12:30
+178,46,Mirijevo,Zimski-Radni Dan,0:07:23.312102
+179,46,Mirijevo,Zimski-Subota,0:08:33.333333
+180,46,Mirijevo,Zimski-Nedelja,0:11:33
+181,46,Beograd Na Vodi,Zimski-Radni Dan,0:07:24
+182,46,Beograd Na Vodi,Zimski-Subota,0:08:24.545455
+183,46,Beograd Na Vodi,Zimski-Nedelja,0:11:26.597938
+184,88,Novi Železnik,Zimski-Radni Dan,0:07:24.230769
+185,88,Novi Železnik,Zimski-Nedelja,0:09:34.576271
+186,88,Novi Železnik,Zimski-Subota,0:09:34.576271
+187,58,Novi Železnik,Zimski-Radni Dan,0:15:26.086957
+188,58,Novi Železnik,Zimski-Subota,0:18:53.333333
+189,58,Novi Železnik,Zimski-Nedelja,0:26:09.230769
+190,56,Zeleni Venac,Zimski-Radni Dan,0:07:24.303797
+191,56,Zeleni Venac,Zimski-Subota,0:10:00
+192,56,Zeleni Venac,Zimski-Nedelja,0:10:00
+193,56L,Zeleni Venac,Zimski-Radni Dan,0:48:27.692308
+194,27,Mirijevo 3,Zimski-Radni Dan,0:07:24.303797
+195,27,Mirijevo 3,Zimski-Subota,0:09:54.782609
+196,74,Mirijevo 3,Zimski-Radni Dan,0:10:13.636364
+197,27,Mirijevo 3,Zimski-Nedelja,0:12:31.648352
+198,74,Mirijevo 3,Zimski-Subota,0:15:12.328767
+199,74,Mirijevo 3,Zimski-Nedelja,0:17:20.625000
+200,20,Mirijevo 3,Zimski-Radni Dan,0:21:37.959184
+201,20,Mirijevo 3,Zimski-Nedelja,0:27:53.684211
+202,20,Mirijevo 3,Zimski-Subota,0:27:53.684211
+203,56,Petlovo Brdo,Zimski-Radni Dan,0:07:26.202532
+204,59,Petlovo Brdo,Zimski-Radni Dan,0:07:30
+205,56,Petlovo Brdo,Zimski-Nedelja,0:10:23.893805
+206,56,Petlovo Brdo,Zimski-Subota,0:10:23.893805
+207,59,Petlovo Brdo,Zimski-Subota,0:11:15
+208,42,Petlovo Brdo,Zimski-Radni Dan,0:12:49.411765
+209,E2,Petlovo Brdo,Zimski-Radni Dan,0:13:06.956522
+210,59,Petlovo Brdo,Zimski-Nedelja,0:15:00
+211,E2,Petlovo Brdo,Zimski-Subota,0:17:32.400000
+212,42,Petlovo Brdo,Zimski-Nedelja,0:25:06.976744
+213,42,Petlovo Brdo,Zimski-Subota,0:25:06.976744
+214,501,Petlovo Brdo,Zimski-Subota,0:57:00
+215,501,Petlovo Brdo,Zimski-Radni Dan,0:57:00
+216,501,Petlovo Brdo,Zimski-Nedelja,0:57:00
+217,59,Birčaninova,Zimski-Radni Dan,0:07:30
+218,47,Birčaninova,Zimski-Subota,0:07:50.833333
+219,47,Birčaninova,Zimski-Radni Dan,0:08:11.304348
+220,39,Birčaninova,Zimski-Radni Dan,0:09:54.495413
+221,47,Birčaninova,Zimski-Nedelja,0:10:58.252427
+222,59,Birčaninova,Zimski-Subota,0:11:22.105263
+223,42,Birčaninova,Zimski-Radni Dan,0:13:11.860465
+224,39,Birčaninova,Zimski-Subota,0:13:30
+225,59,Birčaninova,Zimski-Nedelja,0:14:47.671233
+226,39,Birčaninova,Zimski-Nedelja,0:16:36.923077
+227,30,Birčaninova,Zimski-Radni Dan,0:18:10
+228,402,Birčaninova,Zimski-Radni Dan,0:21:18.260870
+229,401,Birčaninova,Zimski-Radni Dan,0:22:10.188679
+230,30,Birčaninova,Zimski-Subota,0:23:11.489362
+231,42,Birčaninova,Zimski-Nedelja,0:25:20.454545
+232,42,Birčaninova,Zimski-Subota,0:25:20.454545
+233,402,Birčaninova,Zimski-Subota,0:30:00
+234,402,Birčaninova,Zimski-Nedelja,0:30:00
+235,401,Birčaninova,Zimski-Nedelja,0:31:53.513514
+236,401,Birčaninova,Zimski-Subota,0:31:53.513514
+237,30,Birčaninova,Zimski-Nedelja,0:38:55.714286
+238,88,Karađorđev Trg,Zimski-Radni Dan,0:07:32.027027
+239,88,Karađorđev Trg,Zimski-Nedelja,0:10:02.702703
+240,88,Karađorđev Trg,Zimski-Subota,0:10:02.702703
+241,33,Kumodraž,Zimski-Radni Dan,0:07:32.980132
+242,33,Kumodraž,Zimski-Subota,0:09:49.655172
+243,E9,Kumodraž,Zimski-Radni Dan,0:11:50.270270
+244,33,Kumodraž,Zimski-Nedelja,0:12:31.648352
+245,45,Blok 44,Zimski-Radni Dan,0:07:40.273973
+246,45,Blok 44,Zimski-Subota,0:09:27.500000
+247,45,Blok 44,Zimski-Nedelja,0:10:36.448598
+248,82,Blok 44,Zimski-Radni Dan,0:16:59.047619
+249,82,Blok 44,Zimski-Subota,0:18:41.052632
+250,82,Blok 44,Zimski-Nedelja,0:18:41.052632
+251,602,Blok 44,Zimski-Radni Dan,0:28:20
+252,602,Blok 44,Zimski-Subota,0:37:45.517241
+253,602,Blok 44,Zimski-Nedelja,0:37:45.517241
+254,84,Nova Galenika,Zimski-Radni Dan,0:07:42.162162
+255,84,Nova Galenika,Zimski-Subota,0:10:10.714286
+256,84,Nova Galenika,Zimski-Nedelja,0:12:40
+257,612,Nova Galenika,Zimski-Radni Dan,0:47:30
+258,612,Nova Galenika,Zimski-Subota,0:47:30
+259,612,Nova Galenika,Zimski-Nedelja,1:32:00
+260,15,Zeleni Venac,Zimski-Radni Dan,0:07:45.100671
+261,15,Zeleni Venac,Zimski-Subota,0:07:52.602740
+262,15,Zeleni Venac,Zimski-Nedelja,0:09:12
+263,68,Zeleni Venac,Zimski-Radni Dan,0:25:38.461538
+264,68,Zeleni Venac,Zimski-Subota,0:29:24.705882
+265,68,Zeleni Venac,Zimski-Nedelja,0:29:24.705882
+266,45,Zemun /Novi Grad/,Zimski-Radni Dan,0:07:45.306122
+267,15,Zemun /Novi Grad/,Zimski-Radni Dan,0:07:57.551020
+268,15,Zemun /Novi Grad/,Zimski-Subota,0:07:57.551020
+269,15,Zemun /Novi Grad/,Zimski-Nedelja,0:09:17.142857
+270,45,Zemun /Novi Grad/,Zimski-Subota,0:09:30
+271,45,Zemun /Novi Grad/,Zimski-Nedelja,0:10:33.333333
+272,78,Zemun /Novi Grad/,Zimski-Radni Dan,0:10:54
+273,78,Zemun /Novi Grad/,Zimski-Subota,0:16:43.278689
+274,78,Zemun /Novi Grad/,Zimski-Nedelja,0:17:53.684211
+275,27E,Novi Beograd (Blok 20),Zimski-Radni Dan,0:07:49.565217
+276,27E,Novi Beograd (Blok 20),Zimski-Subota,0:09:28.141593
+277,27E,Novi Beograd (Blok 20),Zimski-Nedelja,0:10:35.643564
+278,17,Zemun /Gornji Grad/,Zimski-Radni Dan,0:07:53.154362
+279,17,Zemun /Gornji Grad/,Zimski-Nedelja,0:09:08.437500
+280,17,Zemun /Gornji Grad/,Zimski-Subota,0:09:08.437500
+281,17,Konjarnik,Zimski-Radni Dan,0:07:55.510204
+282,17,Konjarnik,Zimski-Subota,0:08:51.297710
+283,17,Konjarnik,Zimski-Nedelja,0:08:59.534884
+284,27E,Mirijevo 4,Zimski-Radni Dan,0:07:58.321678
+285,27E,Mirijevo 4,Zimski-Subota,0:09:39.661017
+286,27E,Mirijevo 4,Zimski-Nedelja,0:10:45.283019
+287,79,Mirijevo 4,Zimski-Radni Dan,0:12:36.818182
+288,25P,Mirijevo 4,Zimski-Radni Dan,0:15:29.166667
+289,79,Mirijevo 4,Zimski-Subota,0:17:20.625000
+290,79,Mirijevo 4,Zimski-Nedelja,0:17:20.625000
+291,25P,Mirijevo 4,Zimski-Subota,0:17:54.193548
+292,E6,Mirijevo 4,Zimski-Radni Dan,0:19:33.913043
+293,E6,Mirijevo 4,Zimski-Subota,0:19:33.913043
+294,25P,Mirijevo 4,Zimski-Nedelja,0:22:12
+295,47,Železnička Stanica Resnik,Zimski-Subota,0:08:01.632653
+296,47,Železnička Stanica Resnik,Zimski-Radni Dan,0:08:11.666667
+297,47,Železnička Stanica Resnik,Zimski-Nedelja,0:11:05.094340
+298,504,Železnička Stanica Resnik,Zimski-Subota,0:19:02.105263
+299,504,Železnička Stanica Resnik,Zimski-Radni Dan,0:19:02.105263
+300,504,Železnička Stanica Resnik,Zimski-Nedelja,0:19:02.105263
+301,503,Železnička Stanica Resnik,Zimski-Radni Dan,0:42:17.500000
+302,503,Železnička Stanica Resnik,Zimski-Nedelja,1:12:30
+303,503,Železnička Stanica Resnik,Zimski-Subota,1:12:30
+304,84,Zeleni Venac,Zimski-Radni Dan,0:08:02.517483
+305,84,Zeleni Venac,Zimski-Subota,0:09:58.956522
+306,84,Zeleni Venac,Zimski-Nedelja,0:12:34.945055
+307,65,Novo Bežanijsko Groblje,Zimski-Radni Dan,0:08:15.857143
+308,65,Novo Bežanijsko Groblje,Zimski-Subota,0:11:03.461538
+309,65,Novo Bežanijsko Groblje,Zimski-Nedelja,0:12:03.157895
+310,43,Kotež,Zimski-Subota,0:08:23.649635
+311,43,Kotež,Zimski-Radni Dan,0:08:27.352941
+312,43,Kotež,Zimski-Nedelja,0:10:57.142857
+313,18,Zemun /Bačka/,Zimski-Radni Dan,0:08:24.347826
+314,18,Zemun /Bačka/,Zimski-Subota,0:10:32.727273
+315,18,Zemun /Bačka/,Zimski-Nedelja,0:11:40
+316,83,Zemun /Bačka/,Zimski-Subota,0:11:49.375000
+317,83,Zemun /Bačka/,Zimski-Radni Dan,0:12:00
+318,83,Zemun /Bačka/,Zimski-Nedelja,0:14:56.052632
+319,43,Trg Republike,Zimski-Subota,0:08:25.839416
+320,43,Trg Republike,Zimski-Radni Dan,0:08:29.558824
+321,43,Trg Republike,Zimski-Nedelja,0:11:06.346154
+322,65,Zvezdara 2,Zimski-Radni Dan,0:08:27.352941
+323,65,Zvezdara 2,Zimski-Subota,0:11:10.588235
+324,65,Zvezdara 2,Zimski-Nedelja,0:11:52.500000
+325,26L,Vojvode Vlahovića (Terminus),Zimski-Radni Dan,0:08:27.731092
+326,26L,Vojvode Vlahovića (Terminus),Zimski-Nedelja,0:17:03.050847
+327,26L,Vojvode Vlahovića (Terminus),Zimski-Subota,0:17:03.050847
+328,35,Novi Beograd (Blok 20),Zimski-Radni Dan,0:08:39.047619
+329,35,Novi Beograd (Blok 20),Zimski-Subota,0:10:00
+330,35,Novi Beograd (Blok 20),Zimski-Nedelja,0:12:55.609756
+331,35,Lešće /Groblje/,Zimski-Radni Dan,0:08:39.685039
+332,35,Lešće /Groblje/,Zimski-Subota,0:09:57.272727
+333,35,Lešće /Groblje/,Zimski-Nedelja,0:12:55.609756
+334,35L,Lešće /Groblje/,Zimski-Radni Dan,1:06:00
+335,9,Blok 45,Zimski-Radni Dan,0:08:52.031250
+336,7,Blok 45,Zimski-Radni Dan,0:09:10.781250
+337,7,Blok 45,Zimski-Nedelja,0:10:13.043478
+338,7,Blok 45,Zimski-Subota,0:10:13.043478
+339,9,Blok 45,Zimski-Nedelja,0:11:27.878788
+340,9,Blok 45,Zimski-Subota,0:11:27.878788
+341,13,Blok 45,Zimski-Radni Dan,0:12:20
+342,13,Blok 45,Zimski-Subota,0:13:32.195122
+343,13,Blok 45,Zimski-Nedelja,0:13:32.195122
+344,11,Blok 45,Zimski-Radni Dan,0:23:33.333333
+345,11,Blok 45,Zimski-Subota,0:23:33.333333
+346,11,Blok 45,Zimski-Nedelja,0:23:33.333333
+347,9,Banjica,Zimski-Radni Dan,0:08:54.375000
+348,9,Banjica,Zimski-Nedelja,0:11:26.138614
+349,9,Banjica,Zimski-Subota,0:11:26.138614
+350,10,Banjica,Zimski-Radni Dan,0:14:17.142857
+351,10,Banjica,Zimski-Subota,0:15:16.666667
+352,10,Banjica,Zimski-Nedelja,0:15:16.666667
+353,14,Banjica,Zimski-Radni Dan,0:17:30
+354,14,Banjica,Zimski-Subota,0:19:05.454545
+355,14,Banjica,Zimski-Nedelja,0:19:05.454545
+356,94,Resnik (Edvarda Griga),Zimski-Radni Dan,0:09:13.278689
+357,94,Resnik (Edvarda Griga),Zimski-Subota,0:11:33.750000
+358,94,Resnik (Edvarda Griga),Zimski-Nedelja,0:12:03.913043
+359,506,Resnik (Edvarda Griga),Zimski-Radni Dan,0:29:35
+360,506,Resnik (Edvarda Griga),Zimski-Subota,0:38:31.111111
+361,506,Resnik (Edvarda Griga),Zimski-Nedelja,0:38:31.111111
+362,40,Zvezdara,Zimski-Radni Dan,0:09:17.522124
+363,28,Zvezdara,Zimski-Radni Dan,0:09:57.435897
+364,40,Zvezdara,Zimski-Subota,0:10:30
+365,40,Zvezdara,Zimski-Nedelja,0:10:30
+366,28,Zvezdara,Zimski-Nedelja,0:10:35.454545
+367,28,Zvezdara,Zimski-Subota,0:10:35.454545
+368,77,Zvezdara,Zimski-Subota,0:13:05.185185
+369,77,Zvezdara,Zimski-Radni Dan,0:13:56.842105
+370,77,Zvezdara,Zimski-Nedelja,0:16:49.523810
+371,64,Zvezdara,Zimski-Nedelja,0:38:10.909091
+372,64,Zvezdara,Zimski-Radni Dan,0:38:10.909091
+373,64,Zvezdara,Zimski-Subota,0:38:10.909091
+374,7,Ustanička,Zimski-Radni Dan,0:09:26.129032
+375,7,Ustanička,Zimski-Subota,0:10:10.434783
+376,7,Ustanička,Zimski-Nedelja,0:10:10.434783
+377,5,Ustanička,Zimski-Radni Dan,0:11:16.530612
+378,5,Ustanička,Zimski-Subota,0:13:34.814815
+379,5,Ustanička,Zimski-Nedelja,0:13:34.814815
+380,14,Ustanička,Zimski-Radni Dan,0:17:30
+381,14,Ustanička,Zimski-Nedelja,0:19:26.666667
+382,14,Ustanička,Zimski-Subota,0:19:26.666667
+383,6,Ustanička,Zimski-Radni Dan,0:23:26.666667
+384,6,Ustanička,Zimski-Nedelja,0:23:45
+385,6,Ustanička,Zimski-Subota,0:23:45
+386,32,Vukov Spomenik,Zimski-Radni Dan,0:09:49.743590
+387,32,Vukov Spomenik,Zimski-Subota,0:11:44.081633
+388,32,Vukov Spomenik,Zimski-Nedelja,0:14:22.500000
+389,66,Vukov Spomenik,Zimski-Radni Dan,0:19:53.333333
+390,66,Vukov Spomenik,Zimski-Nedelja,0:19:53.333333
+391,66,Vukov Spomenik,Zimski-Subota,0:19:53.333333
+392,EKO1,Vukov Spomenik,Zimski-Nedelja,0:24:05.454545
+393,EKO1,Vukov Spomenik,Zimski-Radni Dan,0:24:05.454545
+394,EKO1,Vukov Spomenik,Zimski-Subota,0:24:05.454545
+395,52,Cerak Vinogradi,Zimski-Radni Dan,0:09:54.782609
+396,52,Cerak Vinogradi,Zimski-Subota,0:11:52.500000
+397,52,Cerak Vinogradi,Zimski-Nedelja,0:14:25.822785
+398,534,Cerak Vinogradi,Zimski-Radni Dan,0:26:49.090909
+399,534,Cerak Vinogradi,Zimski-Nedelja,0:49:07.826087
+400,534,Cerak Vinogradi,Zimski-Subota,0:49:07.826087
+401,21A,Učiteljsko Naselje,Zimski-Radni Dan,0:10:00
+402,21A,Učiteljsko Naselje,Zimski-Nedelja,0:17:13.846154
+403,21A,Učiteljsko Naselje,Zimski-Subota,0:17:13.846154
+404,52,Zeleni Venac,Zimski-Radni Dan,0:10:10.714286
+405,52,Zeleni Venac,Zimski-Subota,0:12:07.659574
+406,52,Zeleni Venac,Zimski-Nedelja,0:14:36.923077
+407,39,Kumodraž 1,Zimski-Radni Dan,0:10:11.320755
+408,39,Kumodraž 1,Zimski-Subota,0:13:20
+409,39,Kumodraž 1,Zimski-Nedelja,0:16:36.923077
+410,32,Višnjica,Zimski-Radni Dan,0:10:13.274336
+411,32,Višnjica,Zimski-Subota,0:11:47.142857
+412,32,Višnjica,Zimski-Nedelja,0:14:26.250000
+413,32E,Višnjica,Zimski-Radni Dan,0:31:06.666667
+414,EKO2,Dorćol /Src Milan Gale Muškatirović/,Zimski-Radni Dan,0:10:14.423077
+415,79,Dorćol /Src Milan Gale Muškatirović/,Zimski-Radni Dan,0:12:36.976744
+416,EKO2,Dorćol /Src Milan Gale Muškatirović/,Zimski-Nedelja,0:13:18.750000
+417,EKO2,Dorćol /Src Milan Gale Muškatirović/,Zimski-Subota,0:13:18.750000
+418,24,Dorćol /Src Milan Gale Muškatirović/,Zimski-Radni Dan,0:13:23.571429
+419,79,Dorćol /Src Milan Gale Muškatirović/,Zimski-Nedelja,0:17:30
+420,79,Dorćol /Src Milan Gale Muškatirović/,Zimski-Subota,0:17:30
+421,24,Dorćol /Src Milan Gale Muškatirović/,Zimski-Subota,0:21:02.264151
+422,24,Dorćol /Src Milan Gale Muškatirović/,Zimski-Nedelja,0:21:02.264151
+423,EKO2,Beograd Na Vodi,Zimski-Radni Dan,0:10:14.423077
+424,601,Beograd Na Vodi,Zimski-Radni Dan,0:10:28.947368
+425,EKO2,Beograd Na Vodi,Zimski-Nedelja,0:13:18.750000
+426,EKO2,Beograd Na Vodi,Zimski-Subota,0:13:18.750000
+427,601,Beograd Na Vodi,Zimski-Subota,0:18:06.363636
+428,601,Beograd Na Vodi,Zimski-Nedelja,0:18:40.312500
+429,3A,Beograd Na Vodi,Zimski-Radni Dan,0:10:15.789474
+430,3A,Beograd Na Vodi,Zimski-Nedelja,0:12:03.711340
+431,3A,Beograd Na Vodi,Zimski-Subota,0:12:03.711340
+432,551,Beograd Na Vodi,Zimski-Radni Dan,0:18:00
+433,92,Beograd Na Vodi,Zimski-Subota,0:26:00
+434,92,Beograd Na Vodi,Zimski-Nedelja,0:26:00
+435,92,Beograd Na Vodi,Zimski-Radni Dan,0:26:05.853659
+436,551,Beograd Na Vodi,Zimski-Subota,0:26:15
+437,551,Beograd Na Vodi,Zimski-Nedelja,0:26:15
+438,91,Beograd Na Vodi,Zimski-Radni Dan,0:26:25.714286
+439,91,Beograd Na Vodi,Zimski-Subota,0:29:19.459459
+440,91,Beograd Na Vodi,Zimski-Nedelja,0:29:19.459459
+441,553,Beograd Na Vodi,Zimski-Radni Dan,0:45:27.272727
+442,553,Beograd Na Vodi,Zimski-Nedelja,1:24:06
+443,553,Beograd Na Vodi,Zimski-Subota,1:24:06
+444,75,Zeleni Venac,Zimski-Radni Dan,0:10:16.363636
+445,75,Zeleni Venac,Zimski-Subota,0:12:25.054945
+446,71,Zeleni Venac,Zimski-Radni Dan,0:13:35.853659
+447,75,Zeleni Venac,Zimski-Nedelja,0:14:07.500000
+448,71,Zeleni Venac,Zimski-Nedelja,0:14:52
+449,71,Zeleni Venac,Zimski-Subota,0:14:52
+450,67,Zeleni Venac,Zimski-Radni Dan,0:16:32.647059
+451,67,Zeleni Venac,Zimski-Nedelja,0:20:27.272727
+452,67,Zeleni Venac,Zimski-Subota,0:20:27.272727
+453,72,Zeleni Venac,Zimski-Nedelja,0:31:03.157895
+454,72,Zeleni Venac,Zimski-Radni Dan,0:31:03.157895
+455,72,Zeleni Venac,Zimski-Subota,0:31:03.157895
+456,60L,Zeleni Venac,Zimski-Subota,0:48:53.333333
+457,60L,Zeleni Venac,Zimski-Nedelja,0:48:53.333333
+458,60,Zeleni Venac,Zimski-Radni Dan,1:04:00
+459,60L,Zeleni Venac,Zimski-Radni Dan,1:04:17.142857
+460,601,Surčin,Zimski-Radni Dan,0:10:21.621622
+461,601,Surčin,Zimski-Subota,0:16:53.636364
+462,601,Surčin,Zimski-Nedelja,0:17:59.032258
+463,607,Surčin,Zimski-Nedelja,1:31:52.500000
+464,607,Surčin,Zimski-Radni Dan,1:31:52.500000
+465,607,Surčin,Zimski-Subota,1:31:52.500000
+466,101,Padinska Skela,Zimski-Radni Dan,0:10:23.478261
+467,101,Padinska Skela,Zimski-Nedelja,0:17:04.285714
+468,101,Padinska Skela,Zimski-Subota,0:17:04.285714
+469,107,Padinska Skela,Zimski-Radni Dan,0:57:53.684211
+470,102,Padinska Skela,Zimski-Subota,0:58:45
+471,102,Padinska Skela,Zimski-Nedelja,0:58:45
+472,102,Padinska Skela,Zimski-Radni Dan,0:58:45
+473,110,Padinska Skela,Zimski-Radni Dan,1:14:00
+474,110,Padinska Skela,Zimski-Nedelja,1:14:00
+475,110,Padinska Skela,Zimski-Subota,1:14:00
+476,109,Padinska Skela,Zimski-Subota,1:16:25.714286
+477,109,Padinska Skela,Zimski-Nedelja,1:16:25.714286
+478,109,Padinska Skela,Zimski-Radni Dan,1:16:25.714286
+479,101,Omladinski Stadion,Zimski-Radni Dan,0:10:23.684211
+480,105,Omladinski Stadion,Zimski-Radni Dan,0:16:16.056338
+481,101,Omladinski Stadion,Zimski-Nedelja,0:17:03.529412
+482,101,Omladinski Stadion,Zimski-Subota,0:17:03.529412
+483,104,Omladinski Stadion,Zimski-Radni Dan,0:23:45
+484,105,Omladinski Stadion,Zimski-Subota,0:27:26.511628
+485,105,Omladinski Stadion,Zimski-Nedelja,0:27:26.511628
+486,106,Omladinski Stadion,Zimski-Radni Dan,0:39:00
+487,104,Omladinski Stadion,Zimski-Nedelja,0:40:21.428571
+488,104,Omladinski Stadion,Zimski-Subota,0:40:21.428571
+489,106,Omladinski Stadion,Zimski-Nedelja,0:52:37.142857
+490,106,Omladinski Stadion,Zimski-Subota,0:52:37.142857
+491,74,Bežanijska Kosa,Zimski-Radni Dan,0:10:24.770642
+492,75,Bežanijska Kosa,Zimski-Radni Dan,0:10:44.859813
+493,75,Bežanijska Kosa,Zimski-Subota,0:12:55.280899
+494,75,Bežanijska Kosa,Zimski-Nedelja,0:14:22.500000
+495,74,Bežanijska Kosa,Zimski-Subota,0:15:38.028169
+496,74,Bežanijska Kosa,Zimski-Nedelja,0:17:37.142857
+497,70,Bežanijska Kosa,Zimski-Radni Dan,0:25:14.285714
+498,70,Bežanijska Kosa,Zimski-Nedelja,0:25:14.285714
+499,70,Bežanijska Kosa,Zimski-Subota,0:25:14.285714
+500,25,Karaburma 2,Zimski-Radni Dan,0:11:04.485981
+501,25,Karaburma 2,Zimski-Subota,0:13:01.318681
+502,25,Karaburma 2,Zimski-Nedelja,0:15:48
+503,2,Pristanište,Zimski-Radni Dan,0:11:07.924528
+504,2,Pristanište,Zimski-Subota,0:14:23.414634
+505,2,Pristanište,Zimski-Nedelja,0:14:23.414634
+506,2,Pristanište,Zimski-Radni Dan,0:11:07.924528
+507,2,Pristanište,Zimski-Nedelja,0:14:23.414634
+508,2,Pristanište,Zimski-Subota,0:14:23.414634
+509,25,Kumodraž 2,Zimski-Radni Dan,0:11:10.754717
+510,25,Kumodraž 2,Zimski-Subota,0:13:10
+511,25,Kumodraž 2,Zimski-Nedelja,0:16:13.972603
+512,308,Šumice - Okretnica,Zimski-Radni Dan,0:11:14.257426
+513,308,Šumice - Okretnica,Zimski-Subota,0:17:41.904762
+514,310,Šumice - Okretnica,Zimski-Radni Dan,0:20:11.538462
+515,308,Šumice - Okretnica,Zimski-Nedelja,0:24:46.666667
+516,310,Šumice - Okretnica,Zimski-Nedelja,0:29:08.571429
+517,310,Šumice - Okretnica,Zimski-Subota,0:29:08.571429
+518,38,Šumice - Okretnica,Zimski-Nedelja,0:37:13.333333
+519,38,Šumice - Okretnica,Zimski-Subota,0:37:13.333333
+520,38,Šumice - Okretnica,Zimski-Radni Dan,0:37:13.333333
+521,308,Vml,Zimski-Radni Dan,0:11:17.142857
+522,308,Vml,Zimski-Subota,0:17:34.545455
+523,308,Vml,Zimski-Nedelja,0:24:40.851064
+524,38,Vml,Zimski-Subota,0:37:13.333333
+525,38,Vml,Zimski-Nedelja,0:37:13.333333
+526,38,Vml,Zimski-Radni Dan,0:37:13.333333
+527,55,Stari Železnik,Zimski-Radni Dan,0:11:18.787879
+528,55,Stari Železnik,Zimski-Subota,0:20:00
+529,55,Stari Železnik,Zimski-Nedelja,0:22:51.428571
+530,51,Bele Vode,Zimski-Radni Dan,0:11:19.411765
+531,51,Bele Vode,Zimski-Nedelja,0:15:00
+532,51,Bele Vode,Zimski-Subota,0:15:00
+533,55,Zvezdara,Zimski-Radni Dan,0:11:25.714286
+534,55,Zvezdara,Zimski-Subota,0:20:21.818182
+535,55,Zvezdara,Zimski-Nedelja,0:23:20
+536,5,Tadeuša Košćuška,Zimski-Radni Dan,0:11:28.421053
+537,5,Tadeuša Košćuška,Zimski-Nedelja,0:13:23.703704
+538,5,Tadeuša Košćuška,Zimski-Subota,0:13:23.703704
+539,10,Tadeuša Košćuška,Zimski-Radni Dan,0:14:17.142857
+540,10,Tadeuša Košćuška,Zimski-Subota,0:15:16.666667
+541,10,Tadeuša Košćuška,Zimski-Nedelja,0:15:16.666667
+542,11,Tadeuša Košćuška,Zimski-Subota,0:22:56.086957
+543,11,Tadeuša Košćuška,Zimski-Radni Dan,0:22:56.086957
+544,11,Tadeuša Košćuška,Zimski-Nedelja,0:22:56.086957
+545,83,Mileševska,Zimski-Radni Dan,0:11:31.578947
+546,83,Mileševska,Zimski-Subota,0:11:31.578947
+547,83,Mileševska,Zimski-Nedelja,0:14:47.837838
+548,53,Zeleni Venac,Zimski-Radni Dan,0:11:43.030303
+549,53,Zeleni Venac,Zimski-Subota,0:12:28.387097
+550,53,Zeleni Venac,Zimski-Nedelja,0:12:53.333333
+551,12,Omladinski Stadion,Zimski-Radni Dan,0:11:47.142857
+552,12,Omladinski Stadion,Zimski-Nedelja,0:16:16.056338
+553,12,Omladinski Stadion,Zimski-Subota,0:16:16.056338
+554,73,Batajnica /Železnička Stanica/,Zimski-Radni Dan,0:11:59.354839
+555,73,Batajnica /Železnička Stanica/,Zimski-Subota,0:12:57.906977
+556,73,Batajnica /Železnička Stanica/,Zimski-Nedelja,0:19:18.620690
+557,703L1,Batajnica /Železnička Stanica/,Zimski-Radni Dan,0:21:34.444444
+558,703L1,Batajnica /Železnička Stanica/,Zimski-Subota,0:32:05
+559,703L1,Batajnica /Železnička Stanica/,Zimski-Nedelja,0:32:05
+560,12,Banovo Brdo,Zimski-Radni Dan,0:12:05
+561,13,Banovo Brdo,Zimski-Radni Dan,0:12:15.164835
+562,13,Banovo Brdo,Zimski-Subota,0:13:35.853659
+563,13,Banovo Brdo,Zimski-Nedelja,0:13:35.853659
+564,12,Banovo Brdo,Zimski-Nedelja,0:16:06.666667
+565,12,Banovo Brdo,Zimski-Subota,0:16:06.666667
+566,704,Zemun Polje,Zimski-Radni Dan,0:12:14.042553
+567,707,Zemun Polje,Zimski-Radni Dan,0:15:52.702703
+568,704,Zemun Polje,Zimski-Subota,0:16:26.363636
+569,704,Zemun Polje,Zimski-Nedelja,0:18:23.389831
+570,707,Zemun Polje,Zimski-Nedelja,0:20:36.842105
+571,707,Zemun Polje,Zimski-Subota,0:20:36.842105
+572,708,Zemun Polje,Zimski-Radni Dan,0:24:21.702128
+573,709,Zemun Polje,Zimski-Radni Dan,0:25:00
+574,708,Zemun Polje,Zimski-Subota,0:29:12.631579
+575,709,Zemun Polje,Zimski-Subota,0:32:38.333333
+576,708,Zemun Polje,Zimski-Nedelja,0:39:17.142857
+577,709,Zemun Polje,Zimski-Nedelja,0:42:57.777778
+578,307,Ustanička,Zimski-Radni Dan,0:12:18.461538
+579,311,Ustanička,Zimski-Radni Dan,0:19:20
+580,307,Ustanička,Zimski-Nedelja,0:25:55.813953
+581,307,Ustanička,Zimski-Subota,0:25:55.813953
+582,306,Ustanička,Zimski-Radni Dan,0:27:40.975610
+583,306,Ustanička,Zimski-Nedelja,0:31:31.666667
+584,306,Ustanička,Zimski-Subota,0:31:31.666667
+585,311,Ustanička,Zimski-Nedelja,0:36:45.517241
+586,311,Ustanička,Zimski-Subota,0:36:45.517241
+587,307,Vinča,Zimski-Radni Dan,0:12:21.758242
+588,307,Vinča,Zimski-Nedelja,0:25:55.813953
+589,307,Vinča,Zimski-Subota,0:25:55.813953
+590,704,Zeleni Venac,Zimski-Radni Dan,0:12:30
+591,707,Zeleni Venac,Zimski-Radni Dan,0:15:42.253521
+592,704,Zeleni Venac,Zimski-Subota,0:16:25.074627
+593,704,Zeleni Venac,Zimski-Nedelja,0:18:01.967213
+594,707,Zeleni Venac,Zimski-Nedelja,0:19:33.684211
+595,707,Zeleni Venac,Zimski-Subota,0:19:33.684211
+596,89,Vidikovac,Zimski-Radni Dan,0:12:35.294118
+597,89,Vidikovac,Zimski-Subota,0:16:43.125000
+598,504,Vidikovac,Zimski-Subota,0:19:02.105263
+599,504,Vidikovac,Zimski-Nedelja,0:19:02.105263
+600,504,Vidikovac,Zimski-Radni Dan,0:19:02.105263
+601,89,Vidikovac,Zimski-Nedelja,0:22:17.500000
+602,89,Novi Beograd /Blok 72/,Zimski-Radni Dan,0:12:36.976744
+603,89,Novi Beograd /Blok 72/,Zimski-Subota,0:16:41.538462
+604,89,Novi Beograd /Blok 72/,Zimski-Nedelja,0:22:36.250000
+605,302,Begaljica,Zimski-Radni Dan,0:12:58.651685
+606,302,Begaljica,Zimski-Subota,0:21:41.886792
+607,302,Begaljica,Zimski-Nedelja,0:29:22.500000
+608,E2,Trg Republike,Zimski-Radni Dan,0:13:06.086957
+609,E2,Trg Republike,Zimski-Subota,0:17:30
+610,77,Bežanijska Kosa,Zimski-Subota,0:13:07.500000
+611,77,Bežanijska Kosa,Zimski-Radni Dan,0:13:27.692308
+612,77,Bežanijska Kosa,Zimski-Nedelja,0:17:12.786885
+613,76,Bežanijska Kosa,Zimski-Radni Dan,0:48:03.333333
+614,76,Bežanijska Kosa,Zimski-Subota,1:06:09.230769
+615,76,Bežanijska Kosa,Zimski-Nedelja,1:06:09.230769
+616,706,Batajnica,Zimski-Radni Dan,0:13:09.655172
+617,706,Batajnica,Zimski-Subota,0:13:37.857143
+618,706,Batajnica,Zimski-Nedelja,0:18:28.064516
+619,302,Ustanička,Zimski-Radni Dan,0:13:14.318182
+620,305,Ustanička,Zimski-Radni Dan,0:14:22.500000
+621,304,Ustanička,Zimski-Radni Dan,0:21:13.584906
+622,302,Ustanička,Zimski-Subota,0:21:47.547170
+623,305,Ustanička,Zimski-Subota,0:24:28.085106
+624,305,Ustanička,Zimski-Nedelja,0:24:28.085106
+625,302,Ustanička,Zimski-Nedelja,0:29:29.230769
+626,303,Ustanička,Zimski-Radni Dan,0:34:13.125000
+627,304,Ustanička,Zimski-Subota,0:39:38.571429
+628,304,Ustanička,Zimski-Nedelja,0:39:38.571429
+629,303,Ustanička,Zimski-Subota,0:41:12
+630,303,Ustanička,Zimski-Nedelja,0:41:12
+631,706,Zeleni Venac,Zimski-Radni Dan,0:13:20
+632,706,Zeleni Venac,Zimski-Subota,0:13:20
+633,706,Zeleni Venac,Zimski-Nedelja,0:18:03.870968
+634,505L,Miljakovačke Staze,Zimski-Radni Dan,0:13:23.846154
+635,505,Miljakovačke Staze,Zimski-Subota,0:14:56.202532
+636,505,Miljakovačke Staze,Zimski-Radni Dan,0:14:56.202532
+637,505,Miljakovačke Staze,Zimski-Nedelja,0:14:56.202532
+638,505L,Miljakovačke Staze,Zimski-Nedelja,0:19:37.358491
+639,505L,Miljakovačke Staze,Zimski-Subota,0:19:37.358491
+640,505R,Miljakovačke Staze,Zimski-Nedelja,0:51:33.750000
+641,505R,Miljakovačke Staze,Zimski-Subota,0:51:33.750000
+642,505R,Miljakovačke Staze,Zimski-Radni Dan,0:51:33.750000
+643,505L,Miljakovac 1,Zimski-Radni Dan,0:13:23.846154
+644,505L,Miljakovac 1,Zimski-Subota,0:19:37.358491
+645,505L,Miljakovac 1,Zimski-Nedelja,0:19:37.358491
+646,71,Ledine,Zimski-Radni Dan,0:13:37.857143
+647,71,Ledine,Zimski-Subota,0:14:52.207792
+648,71,Ledine,Zimski-Nedelja,0:14:52.207792
+649,603,Ledine,Zimski-Radni Dan,0:23:09.795918
+650,603,Ledine,Zimski-Subota,0:32:25.714286
+651,603,Ledine,Zimski-Nedelja,0:43:39.230769
+652,24,Neimar,Zimski-Radni Dan,0:13:44.096386
+653,24,Neimar,Zimski-Subota,0:21:06.666667
+654,24,Neimar,Zimski-Nedelja,0:21:06.666667
+655,49,Naselje Stepa Stepanović,Zimski-Radni Dan,0:14:05.070423
+656,49,Naselje Stepa Stepanović,Zimski-Subota,0:18:50.769231
+657,49,Naselje Stepa Stepanović,Zimski-Nedelja,0:18:50.769231
+658,305,Boleč,Zimski-Radni Dan,0:14:22.500000
+659,305,Boleč,Zimski-Subota,0:24:28.085106
+660,305,Boleč,Zimski-Nedelja,0:24:28.085106
+661,505,Miljakovac 1 – Okretnica,Zimski-Nedelja,0:14:44.615385
+662,505,Miljakovac 1 – Okretnica,Zimski-Radni Dan,0:14:44.615385
+663,505,Miljakovac 1 – Okretnica,Zimski-Subota,0:14:44.615385
+664,502,Miljakovac 1 – Okretnica,Zimski-Subota,0:21:25.714286
+665,502,Miljakovac 1 – Okretnica,Zimski-Radni Dan,0:21:25.714286
+666,502,Miljakovac 1 – Okretnica,Zimski-Nedelja,0:21:25.714286
+667,54,Miljakovac 1 – Okretnica,Zimski-Radni Dan,0:44:02.307692
+668,505R,Miljakovac 1 – Okretnica,Zimski-Nedelja,0:51:33.750000
+669,505R,Miljakovac 1 – Okretnica,Zimski-Subota,0:51:33.750000
+670,505R,Miljakovac 1 – Okretnica,Zimski-Radni Dan,0:51:33.750000
+671,54,Miljakovac 1 – Okretnica,Zimski-Nedelja,1:23:50.769231
+672,54,Miljakovac 1 – Okretnica,Zimski-Subota,1:23:50.769231
+673,611,Dobanovci /Groblje/,Zimski-Radni Dan,0:14:48.311688
+674,611,Dobanovci /Groblje/,Zimski-Subota,0:25:20
+675,611,Dobanovci /Groblje/,Zimski-Nedelja,0:25:20
+676,606,Dobanovci /Groblje/,Zimski-Radni Dan,0:38:40
+677,606,Dobanovci /Groblje/,Zimski-Subota,0:38:40
+678,606,Dobanovci /Groblje/,Zimski-Nedelja,0:38:40
+679,25P,Kumodraž (Stepina Kuća),Zimski-Radni Dan,0:15:04
+680,25P,Kumodraž (Stepina Kuća),Zimski-Subota,0:17:20.625000
+681,25P,Kumodraž (Stepina Kuća),Zimski-Nedelja,0:21:45.882353
+682,105,Ovča /Železnička Stanica/,Zimski-Radni Dan,0:16:04.285714
+683,105L,Ovča /Železnička Stanica/,Zimski-Radni Dan,0:21:43.846154
+684,105,Ovča /Železnička Stanica/,Zimski-Nedelja,0:27:15.714286
+685,105,Ovča /Železnička Stanica/,Zimski-Subota,0:27:15.714286
+686,105L,Ovča /Železnička Stanica/,Zimski-Subota,0:32:52.727273
+687,105L,Ovča /Železnička Stanica/,Zimski-Nedelja,0:32:52.727273
+688,67,Blok 70a,Zimski-Radni Dan,0:16:32.647059
+689,67,Blok 70a,Zimski-Nedelja,0:20:05.357143
+690,67,Blok 70a,Zimski-Subota,0:20:05.357143
+691,708,Blok 70a,Zimski-Radni Dan,0:23:48.260870
+692,708,Blok 70a,Zimski-Subota,0:30:34.285714
+693,708,Blok 70a,Zimski-Nedelja,0:40:23.076923
+694,76,Blok 70a,Zimski-Radni Dan,0:47:46.666667
+695,76,Blok 70a,Zimski-Nedelja,1:06:32.307692
+696,76,Blok 70a,Zimski-Subota,1:06:32.307692
+697,700,Batajnica /Železnička Stanica/,Zimski-Radni Dan,0:16:49.523810
+698,700,Batajnica /Železnička Stanica/,Zimski-Subota,0:29:26.666667
+699,700,Batajnica /Železnička Stanica/,Zimski-Nedelja,0:29:26.666667
+700,85,Borča 3,Zimski-Radni Dan,0:16:56.363636
+701,85,Borča 3,Zimski-Subota,0:20:16.071429
+702,85,Borča 3,Zimski-Nedelja,0:22:15.294118
+703,405,Voždovac,Zimski-Radni Dan,0:17:04.285714
+704,405,Voždovac,Zimski-Subota,0:25:58.695652
+705,405,Voždovac,Zimski-Nedelja,0:25:58.695652
+706,403,Voždovac,Zimski-Radni Dan,0:30:07.692308
+707,409,Voždovac,Zimski-Radni Dan,0:33:42.222222
+708,409,Voždovac,Zimski-Subota,0:33:42.222222
+709,409,Voždovac,Zimski-Nedelja,0:33:42.222222
+710,408,Voždovac,Zimski-Radni Dan,0:37:05.806452
+711,407,Voždovac,Zimski-Nedelja,0:43:16.153846
+712,408,Voždovac,Zimski-Subota,0:43:16.153846
+713,407,Voždovac,Zimski-Radni Dan,0:43:16.153846
+714,407,Voždovac,Zimski-Subota,0:43:16.153846
+715,403,Voždovac,Zimski-Nedelja,0:47:55
+716,403,Voždovac,Zimski-Subota,0:47:55
+717,408,Voždovac,Zimski-Nedelja,1:04:42.352941
+718,406,Voždovac,Zimski-Subota,1:05:52.941176
+719,406,Voždovac,Zimski-Nedelja,1:05:52.941176
+720,406,Voždovac,Zimski-Radni Dan,1:05:52.941176
+721,405,Glumčevo Brdo,Zimski-Radni Dan,0:17:04.285714
+722,405,Glumčevo Brdo,Zimski-Nedelja,0:26:00
+723,405,Glumčevo Brdo,Zimski-Subota,0:26:00
+724,405L,Glumčevo Brdo,Zimski-Subota,0:38:10.909091
+725,405L,Glumčevo Brdo,Zimski-Radni Dan,0:38:24
+726,405L,Glumčevo Brdo,Zimski-Nedelja,0:47:38.823529
+727,610,Jakovo,Zimski-Radni Dan,0:17:14.328358
+728,610,Jakovo,Zimski-Subota,0:27:19.534884
+729,610,Jakovo,Zimski-Nedelja,0:27:19.534884
+730,30,Medaković 2,Zimski-Radni Dan,0:17:30
+731,30,Medaković 2,Zimski-Subota,0:22:36.250000
+732,30,Medaković 2,Zimski-Nedelja,0:38:34.285714
+733,81,Altina 1,Zimski-Radni Dan,0:17:42.711864
+734,81L,Altina 1,Zimski-Radni Dan,0:18:28.474576
+735,81,Altina 1,Zimski-Nedelja,0:33:13.548387
+736,81,Altina 1,Zimski-Subota,0:33:13.548387
+737,81L,Altina 1,Zimski-Subota,0:34:41.818182
+738,81L,Altina 1,Zimski-Nedelja,0:34:41.818182
+739,551,Sremčica,Zimski-Radni Dan,0:18:09.230769
+740,551,Sremčica,Zimski-Subota,0:26:40
+741,551,Sremčica,Zimski-Nedelja,0:26:40
+742,311,Leštane (Ravan),Zimski-Radni Dan,0:18:56.129032
+743,311,Leštane (Ravan),Zimski-Nedelja,0:36:44
+744,311,Leštane (Ravan),Zimski-Subota,0:36:44
+745,531,13. Septembar,Zimski-Radni Dan,0:19:12.631579
+746,531,13. Septembar,Zimski-Subota,0:31:08.571429
+747,531,13. Septembar,Zimski-Nedelja,0:31:08.571429
+748,66,Naučno-Tehnološki Park ,Zimski-Radni Dan,0:19:33.333333
+749,66,Naučno-Tehnološki Park ,Zimski-Nedelja,0:19:33.333333
+750,66,Naučno-Tehnološki Park ,Zimski-Subota,0:19:33.333333
+751,309L,Put Za Institut,Zimski-Radni Dan,0:19:39.661017
+752,309L,Put Za Institut,Zimski-Subota,0:38:40
+753,309L,Put Za Institut,Zimski-Nedelja,0:38:40
+754,309L,Kaluđerica (Višnjićeva),Zimski-Radni Dan,0:19:40
+755,309L,Kaluđerica (Višnjićeva),Zimski-Subota,0:38:40
+756,309L,Kaluđerica (Višnjićeva),Zimski-Nedelja,0:38:40
+757,531,Banovo Brdo,Zimski-Radni Dan,0:19:49.090909
+758,532,Banovo Brdo,Zimski-Radni Dan,0:20:54.545455
+759,512,Banovo Brdo,Zimski-Radni Dan,0:26:13.170732
+760,533,Banovo Brdo,Zimski-Radni Dan,0:29:48.888889
+761,531,Banovo Brdo,Zimski-Subota,0:31:45.882353
+762,531,Banovo Brdo,Zimski-Nedelja,0:31:45.882353
+763,533,Banovo Brdo,Zimski-Nedelja,0:31:49.090909
+764,533,Banovo Brdo,Zimski-Subota,0:31:49.090909
+765,532,Banovo Brdo,Zimski-Nedelja,0:33:22.941176
+766,532,Banovo Brdo,Zimski-Subota,0:33:22.941176
+767,512,Banovo Brdo,Zimski-Subota,0:37:04.137931
+768,512,Banovo Brdo,Zimski-Nedelja,0:37:04.137931
+769,532,Oslobođenja 2,Zimski-Radni Dan,0:19:49.090909
+770,532,Oslobođenja 2,Zimski-Subota,0:32:21.176471
+771,532,Oslobođenja 2,Zimski-Nedelja,0:32:21.176471
+772,604,Preka Kaldrma,Zimski-Radni Dan,0:20:05.263158
+773,604,Preka Kaldrma,Zimski-Nedelja,0:38:37.241379
+774,604,Preka Kaldrma,Zimski-Subota,0:38:37.241379
+775,702L,Batajnica /Šangajska/,Zimski-Subota,0:20:10.344828
+776,702L,Batajnica /Šangajska/,Zimski-Radni Dan,0:20:10.344828
+777,702L,Batajnica /Šangajska/,Zimski-Nedelja,0:20:10.344828
+778,703L,Batajnica /Šangajska/,Zimski-Radni Dan,0:20:10.526316
+779,703L,Batajnica /Šangajska/,Zimski-Subota,0:20:10.526316
+780,703L,Batajnica /Šangajska/,Zimski-Nedelja,0:20:10.526316
+781,310,Mali Mokri Lug (Crkva),Zimski-Radni Dan,0:20:11.538462
+782,310,Mali Mokri Lug (Crkva),Zimski-Subota,0:29:08.571429
+783,310,Mali Mokri Lug (Crkva),Zimski-Nedelja,0:29:08.571429
+784,702L,Busije /Crkva/,Zimski-Subota,0:20:15.254237
+785,702L,Busije /Crkva/,Zimski-Nedelja,0:20:15.254237
+786,702L,Busije /Crkva/,Zimski-Radni Dan,0:20:15.254237
+787,703L,Ugrinovci,Zimski-Radni Dan,0:20:31.578947
+788,703L,Ugrinovci,Zimski-Nedelja,0:20:31.578947
+789,703L,Ugrinovci,Zimski-Subota,0:20:31.578947
+790,603,Ugrinovci,Zimski-Radni Dan,0:23:09.795918
+791,603,Ugrinovci,Zimski-Subota,0:32:25.714286
+792,603,Ugrinovci,Zimski-Nedelja,0:43:39.230769
+793,711,Ugrinovci,Zimski-Radni Dan,0:47:49.565217
+794,711,Ugrinovci,Zimski-Nedelja,0:47:49.565217
+795,711,Ugrinovci,Zimski-Subota,0:47:49.565217
+796,44,Žel. St. Dunav -Okretnica,Zimski-Radni Dan,0:21:13.469388
+797,44,Žel. St. Dunav -Okretnica,Zimski-Subota,0:27:22.105263
+798,44,Žel. St. Dunav -Okretnica,Zimski-Nedelja,0:27:22.105263
+799,402,Beli Potok,Zimski-Radni Dan,0:21:18.260870
+800,402,Beli Potok,Zimski-Subota,0:30:09.090909
+801,402,Beli Potok,Zimski-Nedelja,0:30:09.090909
+802,108,Reva /Duboka Bara/,Zimski-Radni Dan,0:21:24.905660
+803,108,Reva /Duboka Bara/,Zimski-Subota,0:29:52.105263
+804,108,Reva /Duboka Bara/,Zimski-Nedelja,0:29:52.105263
+805,304,Ritopek,Zimski-Radni Dan,0:21:24.905660
+806,304,Ritopek,Zimski-Nedelja,0:39:38.571429
+807,304,Ritopek,Zimski-Subota,0:39:38.571429
+808,502,Orlovača Groblje,Zimski-Subota,0:21:25.714286
+809,502,Orlovača Groblje,Zimski-Radni Dan,0:21:25.714286
+810,502,Orlovača Groblje,Zimski-Nedelja,0:21:25.714286
+811,533,Orlovača Groblje,Zimski-Radni Dan,0:29:48.888889
+812,533,Orlovača Groblje,Zimski-Subota,0:31:49.090909
+813,533,Orlovača Groblje,Zimski-Nedelja,0:31:49.090909
+814,108,Omladinski Stadion /Ulaz/,Zimski-Radni Dan,0:21:28.888889
+815,202,Omladinski Stadion /Ulaz/,Zimski-Radni Dan,0:25:34.090909
+816,202,Omladinski Stadion /Ulaz/,Zimski-Subota,0:29:36.315789
+817,202,Omladinski Stadion /Ulaz/,Zimski-Nedelja,0:29:36.315789
+818,108,Omladinski Stadion /Ulaz/,Zimski-Nedelja,0:29:44.615385
+819,108,Omladinski Stadion /Ulaz/,Zimski-Subota,0:29:44.615385
+820,35L,Omladinski Stadion /Ulaz/,Zimski-Radni Dan,1:06:00
+821,44,Topčidersko Brdo /Senjak/,Zimski-Radni Dan,0:21:30
+822,34,Topčidersko Brdo /Senjak/,Zimski-Radni Dan,0:22:58.571429
+823,44,Topčidersko Brdo /Senjak/,Zimski-Subota,0:27:33.846154
+824,44,Topčidersko Brdo /Senjak/,Zimski-Nedelja,0:27:33.846154
+825,34,Topčidersko Brdo /Senjak/,Zimski-Nedelja,0:33:45
+826,34,Topčidersko Brdo /Senjak/,Zimski-Subota,0:33:45
+827,605,Progar,Zimski-Radni Dan,0:21:47.547170
+828,605,Progar,Zimski-Nedelja,0:33:40.588235
+829,605,Progar,Zimski-Subota,0:33:40.588235
+830,703L1,Kej Oslobođenja,Zimski-Radni Dan,0:21:53.207547
+831,703L1,Kej Oslobođenja,Zimski-Subota,0:33:08.571429
+832,703L1,Kej Oslobođenja,Zimski-Nedelja,0:33:08.571429
+833,705,Kej Oslobođenja,Zimski-Radni Dan,0:50:00
+834,705,Kej Oslobođenja,Zimski-Subota,0:52:22.857143
+835,705,Kej Oslobođenja,Zimski-Nedelja,0:52:22.857143
+836,706E,Kej Oslobođenja,Zimski-Radni Dan,0:58:12.857143
+837,706E,Kej Oslobođenja,Zimski-Nedelja,1:23:00
+838,706E,Kej Oslobođenja,Zimski-Subota,1:23:00
+839,36,Železnička Stanica Bgd Centar,Zimski-Subota,0:21:57.647059
+840,36,Železnička Stanica Bgd Centar,Zimski-Nedelja,0:21:57.647059
+841,36,Železnička Stanica Bgd Centar,Zimski-Radni Dan,0:21:57.647059
+842,105L,Borča 3,Zimski-Radni Dan,0:22:02.400000
+843,105L,Borča 3,Zimski-Nedelja,0:33:54.375000
+844,105L,Borča 3,Zimski-Subota,0:33:54.375000
+845,401,Pinosava,Zimski-Radni Dan,0:22:03.529412
+846,401,Pinosava,Zimski-Nedelja,0:30:41.666667
+847,401,Pinosava,Zimski-Subota,0:30:41.666667
+848,36,Železnička Stanica Beograd Centar,Zimski-Nedelja,0:22:18.461538
+849,36,Železnička Stanica Beograd Centar,Zimski-Subota,0:22:18.461538
+850,36,Železnička Stanica Beograd Centar,Zimski-Radni Dan,0:22:18.461538
+851,20,Veliki Mokri Lug,Zimski-Radni Dan,0:22:42
+852,20,Veliki Mokri Lug,Zimski-Nedelja,0:27:40.975610
+853,20,Veliki Mokri Lug,Zimski-Subota,0:27:40.975610
+854,34,Pere Velimirovića,Zimski-Radni Dan,0:23:05.714286
+855,34,Pere Velimirovića,Zimski-Nedelja,0:33:57.931034
+856,34,Pere Velimirovića,Zimski-Subota,0:33:57.931034
+857,104,Crvenka,Zimski-Radni Dan,0:23:15.918367
+858,104,Crvenka,Zimski-Nedelja,0:40:21.428571
+859,104,Crvenka,Zimski-Subota,0:40:21.428571
+860,6,Tašmajdan /Park/,Zimski-Subota,0:23:45
+861,6,Tašmajdan /Park/,Zimski-Nedelja,0:23:45
+862,6,Tašmajdan /Park/,Zimski-Radni Dan,0:24:12.272727
+863,EKO1,Garaža Novi Beograd,Zimski-Subota,0:24:01.304348
+864,EKO1,Garaža Novi Beograd,Zimski-Radni Dan,0:24:01.304348
+865,EKO1,Garaža Novi Beograd,Zimski-Nedelja,0:24:01.304348
+866,709,Zemun (Novi Grad),Zimski-Radni Dan,0:24:13.333333
+867,709,Zemun (Novi Grad),Zimski-Subota,0:32:03.529412
+868,709,Zemun (Novi Grad),Zimski-Nedelja,0:41:43.846154
+869,68,Blok 70,Zimski-Radni Dan,0:25:37.500000
+870,68,Blok 70,Zimski-Subota,0:29:17.142857
+871,68,Blok 70,Zimski-Nedelja,0:29:17.142857
+872,92,Ostružnica /Karaula/,Zimski-Nedelja,0:26:00
+873,92,Ostružnica /Karaula/,Zimski-Subota,0:26:00
+874,92,Ostružnica /Karaula/,Zimski-Radni Dan,0:26:00
+875,202,Veliko Selo,Zimski-Radni Dan,0:26:02.790698
+876,202,Veliko Selo,Zimski-Subota,0:29:28.421053
+877,202,Veliko Selo,Zimski-Nedelja,0:29:28.421053
+878,70,Ikea,Zimski-Subota,0:26:05.853659
+879,70,Ikea,Zimski-Nedelja,0:26:05.853659
+880,70,Ikea,Zimski-Radni Dan,0:26:05.853659
+881,534,Ripanj /Groblje/,Zimski-Radni Dan,0:26:13.333333
+882,534,Ripanj /Groblje/,Zimski-Nedelja,0:49:33.913043
+883,534,Ripanj /Groblje/,Zimski-Subota,0:49:33.913043
+884,91,Ostružnica /Novo Naselje/,Zimski-Radni Dan,0:26:25.714286
+885,91,Ostružnica /Novo Naselje/,Zimski-Subota,0:29:27.567568
+886,91,Ostružnica /Novo Naselje/,Zimski-Nedelja,0:29:27.567568
+887,512,Sremčica /Naselje Gorica/,Zimski-Radni Dan,0:26:45
+888,513,Sremčica /Naselje Gorica/,Zimski-Nedelja,0:36:00
+889,512,Sremčica /Naselje Gorica/,Zimski-Subota,0:36:53.793103
+890,512,Sremčica /Naselje Gorica/,Zimski-Nedelja,0:36:53.793103
+891,513,Sremčica /Naselje Gorica/,Zimski-Subota,0:37:46.666667
+892,513,Sremčica /Naselje Gorica/,Zimski-Radni Dan,0:42:00
+893,306,Leštane,Zimski-Radni Dan,0:27:54.285714
+894,306,Leštane,Zimski-Subota,0:32:36.666667
+895,306,Leštane,Zimski-Nedelja,0:32:36.666667
+896,602,Src Surčin,Zimski-Radni Dan,0:28:37.500000
+897,602,Src Surčin,Zimski-Nedelja,0:37:50
+898,602,Src Surčin,Zimski-Subota,0:37:50
+899,312,Mz Vml,Zimski-Nedelja,0:29:00
+900,312,Mz Vml,Zimski-Radni Dan,0:29:00
+901,312,Mz Vml,Zimski-Subota,0:29:00
+902,521,Vidikovac,Zimski-Nedelja,0:29:07.894737
+903,521,Vidikovac,Zimski-Radni Dan,0:29:07.894737
+904,521,Vidikovac,Zimski-Subota,0:29:07.894737
+905,521,Železnik /Tariš/,Zimski-Radni Dan,0:29:10
+906,521,Železnik /Tariš/,Zimski-Nedelja,0:29:10
+907,521,Železnik /Tariš/,Zimski-Subota,0:29:10
+908,506,Resnik (Patin Majdan),Zimski-Radni Dan,0:29:35
+909,506,Resnik (Patin Majdan),Zimski-Nedelja,0:38:34.285714
+910,506,Resnik (Patin Majdan),Zimski-Subota,0:38:34.285714
+911,38L,Železnička Stanica Beograd Centar,Zimski-Nedelja,0:29:50.625000
+912,38L,Železnička Stanica Beograd Centar,Zimski-Subota,0:29:50.625000
+913,38L,Železnička Stanica Beograd Centar,Zimski-Radni Dan,0:29:50.625000
+914,403,Zuce,Zimski-Radni Dan,0:29:52.307692
+915,403,Zuce,Zimski-Subota,0:48:32.500000
+916,403,Zuce,Zimski-Nedelja,0:48:32.500000
+917,38L,Pogon Kosmaj,Zimski-Subota,0:30:00
+918,38L,Pogon Kosmaj,Zimski-Radni Dan,0:30:00
+919,38L,Pogon Kosmaj,Zimski-Nedelja,0:30:00
+920,72,Aerodrom Nikola Tesla,Zimski-Radni Dan,0:30:50
+921,72,Aerodrom Nikola Tesla,Zimski-Nedelja,0:31:42.857143
+922,72,Aerodrom Nikola Tesla,Zimski-Subota,0:31:42.857143
+923,32E,Trg Republike,Zimski-Radni Dan,0:31:17.777778
+924,87,Čukarička Padina,Zimski-Subota,0:33:27.692308
+925,87,Čukarička Padina,Zimski-Nedelja,0:33:27.692308
+926,87,Čukarička Padina,Zimski-Radni Dan,0:33:37.241379
+927,87A,Čukarička Padina,Zimski-Nedelja,0:38:10.909091
+928,87A,Čukarička Padina,Zimski-Subota,0:38:10.909091
+929,87A,Čukarička Padina,Zimski-Radni Dan,0:38:10.909091
+930,56L,Čukarička Padina,Zimski-Radni Dan,0:48:27.692308
+931,409,Voždovac-Okretnica,Zimski-Subota,0:33:42.222222
+932,409,Voždovac-Okretnica,Zimski-Radni Dan,0:33:42.222222
+933,409,Voždovac-Okretnica,Zimski-Nedelja,0:33:42.222222
+934,406L,Voždovac-Okretnica,Zimski-Nedelja,0:35:18.750000
+935,406L,Voždovac-Okretnica,Zimski-Radni Dan,0:35:18.750000
+936,406L,Voždovac-Okretnica,Zimski-Subota,0:35:18.750000
+937,503,Voždovac-Okretnica,Zimski-Radni Dan,0:42:30
+938,503,Voždovac-Okretnica,Zimski-Nedelja,1:12:51.428571
+939,503,Voždovac-Okretnica,Zimski-Subota,1:12:51.428571
+940,303,Vrčin ,Zimski-Radni Dan,0:34:32.727273
+941,303,Vrčin ,Zimski-Subota,0:43:16.153846
+942,303,Vrčin ,Zimski-Nedelja,0:43:16.153846
+943,507,Rušanj (Drobnjački Kraj),Zimski-Nedelja,0:35:00
+944,507,Rušanj (Drobnjački Kraj),Zimski-Radni Dan,0:35:00
+945,507,Rušanj (Drobnjački Kraj),Zimski-Subota,0:35:00
+946,406L,Beli Potok (Igralište),Zimski-Subota,0:35:09.375000
+947,406L,Beli Potok (Igralište),Zimski-Radni Dan,0:35:09.375000
+948,406L,Beli Potok (Igralište),Zimski-Nedelja,0:35:09.375000
+949,513,Velika Moštanica (Živojina Tabakovića),Zimski-Nedelja,0:36:21.818182
+950,513,Velika Moštanica (Živojina Tabakovića),Zimski-Subota,0:37:53.684211
+951,513,Velika Moštanica (Živojina Tabakovića),Zimski-Radni Dan,0:42:24
+952,408,Ralja /Drumine/,Zimski-Radni Dan,0:36:46.451613
+953,408,Ralja /Drumine/,Zimski-Subota,0:43:16.153846
+954,408,Ralja /Drumine/,Zimski-Nedelja,1:03:49.411765
+955,106,Jabučki Rit,Zimski-Radni Dan,0:37:20
+956,106,Jabučki Rit,Zimski-Subota,0:52:22.857143
+957,106,Jabučki Rit,Zimski-Nedelja,0:52:22.857143
+958,64,Šumice,Zimski-Radni Dan,0:38:10.909091
+959,64,Šumice,Zimski-Subota,0:38:10.909091
+960,64,Šumice,Zimski-Nedelja,0:38:10.909091
+961,606,Grmovac /25.Nova/,Zimski-Subota,0:38:40
+962,606,Grmovac /25.Nova/,Zimski-Radni Dan,0:38:40
+963,606,Grmovac /25.Nova/,Zimski-Nedelja,0:38:40
+964,407L,Bela Reka,Zimski-Nedelja,0:42:45
+965,407L,Bela Reka,Zimski-Subota,0:42:45
+966,407L,Bela Reka,Zimski-Radni Dan,0:42:45
+967,407,Bela Reka,Zimski-Subota,0:43:16.153846
+968,407,Bela Reka,Zimski-Radni Dan,0:43:16.153846
+969,407,Bela Reka,Zimski-Nedelja,0:43:16.153846
+970,404,Bela Reka,Zimski-Nedelja,1:05:52.941176
+971,404,Bela Reka,Zimski-Radni Dan,1:05:52.941176
+972,404,Bela Reka,Zimski-Subota,1:05:52.941176
+973,407L,Trebež (Okretnica),Zimski-Nedelja,0:43:00
+974,407L,Trebež (Okretnica),Zimski-Subota,0:43:00
+975,407L,Trebež (Okretnica),Zimski-Radni Dan,0:43:00
+976,54,Mz Makiš,Zimski-Radni Dan,0:44:00
+977,54,Mz Makiš,Zimski-Nedelja,1:24:13.846154
+978,54,Mz Makiš,Zimski-Subota,1:24:13.846154
+979,553,Rucka /Okretnica/,Zimski-Radni Dan,0:45:27.272727
+980,553,Rucka /Okretnica/,Zimski-Nedelja,1:24:18
+981,553,Rucka /Okretnica/,Zimski-Subota,1:24:18
+982,613,Radiofar,Zimski-Subota,0:45:30
+983,613,Radiofar,Zimski-Radni Dan,0:45:30
+984,613,Radiofar,Zimski-Nedelja,1:21:00
+985,705,13. Maj,Zimski-Radni Dan,0:48:02.608696
+986,705,13. Maj,Zimski-Nedelja,0:52:37.142857
+987,705,13. Maj,Zimski-Subota,0:52:37.142857
+988,60L,Toplana,Zimski-Nedelja,0:48:07.500000
+989,60L,Toplana,Zimski-Subota,0:48:07.500000
+990,60,Toplana,Zimski-Radni Dan,0:57:30
+991,60L,Toplana,Zimski-Radni Dan,1:18:00
+992,501,Staro Kijevo,Zimski-Radni Dan,0:56:40
+993,501,Staro Kijevo,Zimski-Subota,0:56:40
+994,501,Staro Kijevo,Zimski-Nedelja,0:56:40
+995,107,Dunavac,Zimski-Radni Dan,0:57:15
+996,102,Vrbovski,Zimski-Nedelja,0:58:09.473684
+997,102,Vrbovski,Zimski-Radni Dan,0:58:09.473684
+998,102,Vrbovski,Zimski-Subota,0:58:09.473684
+999,706E,Aerodrom Batajnica,Zimski-Radni Dan,0:58:34.285714
+1000,706E,Aerodrom Batajnica,Zimski-Nedelja,1:23:00
+1001,706E,Aerodrom Batajnica,Zimski-Subota,1:23:00
+1002,406,Institut Jaroslav Černi,Zimski-Subota,1:05:37.500000
+1003,406,Institut Jaroslav Černi,Zimski-Nedelja,1:05:37.500000
+1004,406,Institut Jaroslav Černi,Zimski-Radni Dan,1:05:37.500000
+1005,404,Trešnja /Okretnica/,Zimski-Subota,1:05:52.941176
+1006,404,Trešnja /Okretnica/,Zimski-Radni Dan,1:05:52.941176
+1007,404,Trešnja /Okretnica/,Zimski-Nedelja,1:05:52.941176
+1008,110,Put Za Vrbovski,Zimski-Subota,1:14:40
+1009,110,Put Za Vrbovski,Zimski-Nedelja,1:14:40
+1010,110,Put Za Vrbovski,Zimski-Radni Dan,1:14:40
+1011,109,Put Za Dunavac,Zimski-Subota,1:16:20
+1012,109,Put Za Dunavac,Zimski-Nedelja,1:16:20
+1013,109,Put Za Dunavac,Zimski-Radni Dan,1:16:20

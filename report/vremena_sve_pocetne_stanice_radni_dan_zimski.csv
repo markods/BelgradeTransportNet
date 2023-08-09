@@ -1,0 +1,349 @@
+,route_short_name,stop_name,average_wait
+0,22L,Trg Slavija,0:04:23.007519
+3,22L,Studentski Trg,0:04:25.168539
+6,31,Studentski Trg,0:05:46.733668
+9,E9,Studentski Trg,0:11:48.648649
+10,26,Naselje Braće Jerković,0:05:06.756757
+13,26,Dorćol /Dunavska/,0:05:13.761468
+16,29A,Medaković 3,0:05:36.231884
+19,18,Medaković 3,0:08:20
+20,26L,Medaković 3,0:08:31.525424
+25,29A,Trg Slavija,0:05:40.191388
+28,21A,Trg Slavija,0:10:07.894737
+31,31,Konjarnik,0:05:46.039604
+34,309,Kaluđerica,0:06:02.436548
+37,309,Zvezdara /Pijaca/,0:06:07.539267
+40,16,Novi Beograd /Paviljoni/,0:06:07.741935
+43,611,Novi Beograd /Paviljoni/,0:16:05.753425
+44,610,Novi Beograd /Paviljoni/,0:17:27.761194
+45,82,Novi Beograd /Paviljoni/,0:17:49.354839
+46,81,Novi Beograd /Paviljoni/,0:18:00
+49,81L,Novi Beograd /Paviljoni/,0:19:29.491525
+59,613,Novi Beograd /Paviljoni/,0:43:20
+60,612,Novi Beograd /Paviljoni/,0:47:30
+62,711,Novi Beograd /Paviljoni/,0:47:55
+67,607,Novi Beograd /Paviljoni/,1:31:52.500000
+70,16,Karaburma 2,0:06:10.588235
+73,41,Studentski Trg,0:06:25.714286
+76,28,Studentski Trg,0:09:47.394958
+79,50,Banovo Brdo,0:06:27.428571
+82,49,Banovo Brdo,0:14:25.714286
+83,85,Banovo Brdo,0:16:42.985075
+86,57,Banovo Brdo,0:19:36.470588
+91,41,Banjica 2,0:06:32.571429
+94,40,Banjica 2,0:09:23.157895
+97,78,Banjica 2,0:10:36.363636
+100,50,Bulevar Kralja Aleksandra,0:06:33.641618
+103,E1,Bulevar Kralja Aleksandra,0:29:00
+105,37,Žs Pančevački Most,0:06:39.375000
+109,96,Žs Pančevački Most,0:11:47.142857
+111,58,Žs Pančevački Most,0:14:42.857143
+114,37,Kneževac,0:06:42.909091
+115,3A,Kneževac,0:10:10.344828
+122,507,Kneževac,0:34:11.612903
+123,95,Blok 45,0:06:44.733728
+126,94,Blok 45,0:09:22.500000
+127,73,Blok 45,0:11:35.876289
+132,E6,Blok 45,0:19:33.913043
+134,604,Blok 45,0:20:15.789474
+135,605,Blok 45,0:22:35.769231
+136,E1,Blok 45,0:29:00
+142,511,Beograd Na Vodi,0:06:45.172414
+145,51,Beograd Na Vodi,0:11:11.875000
+148,48,Miljakovac 3,0:06:46.875000
+151,95,Borča 3,0:06:49.058824
+156,96,Borča 3,0:12:00
+157,511,Sremčica,0:06:49.714286
+160,48,Žs Pančevački Most,0:06:57.073171
+161,33,Žs Pančevački Most,0:07:45.517241
+166,23,Vidikovac,0:07:03.636364
+169,53,Vidikovac,0:11:32.783505
+172,23,Karaburma 2,0:07:05.925926
+175,27,Trg Republike,0:07:09.878049
+178,46,Mirijevo,0:07:23.312102
+181,46,Beograd Na Vodi,0:07:24
+184,88,Novi Železnik,0:07:24.230769
+187,58,Novi Železnik,0:15:26.086957
+190,56,Zeleni Venac,0:07:24.303797
+193,56L,Zeleni Venac,0:48:27.692308
+194,27,Mirijevo 3,0:07:24.303797
+196,74,Mirijevo 3,0:10:13.636364
+200,20,Mirijevo 3,0:21:37.959184
+203,56,Petlovo Brdo,0:07:26.202532
+204,59,Petlovo Brdo,0:07:30
+208,42,Petlovo Brdo,0:12:49.411765
+209,E2,Petlovo Brdo,0:13:06.956522
+215,501,Petlovo Brdo,0:57:00
+217,59,Birčaninova,0:07:30
+219,47,Birčaninova,0:08:11.304348
+220,39,Birčaninova,0:09:54.495413
+223,42,Birčaninova,0:13:11.860465
+227,30,Birčaninova,0:18:10
+228,402,Birčaninova,0:21:18.260870
+229,401,Birčaninova,0:22:10.188679
+238,88,Karađorđev Trg,0:07:32.027027
+241,33,Kumodraž,0:07:32.980132
+243,E9,Kumodraž,0:11:50.270270
+245,45,Blok 44,0:07:40.273973
+248,82,Blok 44,0:16:59.047619
+251,602,Blok 44,0:28:20
+254,84,Nova Galenika,0:07:42.162162
+257,612,Nova Galenika,0:47:30
+260,15,Zeleni Venac,0:07:45.100671
+263,68,Zeleni Venac,0:25:38.461538
+266,45,Zemun /Novi Grad/,0:07:45.306122
+267,15,Zemun /Novi Grad/,0:07:57.551020
+272,78,Zemun /Novi Grad/,0:10:54
+275,27E,Novi Beograd (Blok 20),0:07:49.565217
+278,17,Zemun /Gornji Grad/,0:07:53.154362
+281,17,Konjarnik,0:07:55.510204
+284,27E,Mirijevo 4,0:07:58.321678
+287,79,Mirijevo 4,0:12:36.818182
+288,25P,Mirijevo 4,0:15:29.166667
+292,E6,Mirijevo 4,0:19:33.913043
+296,47,Železnička Stanica Resnik,0:08:11.666667
+299,504,Železnička Stanica Resnik,0:19:02.105263
+301,503,Železnička Stanica Resnik,0:42:17.500000
+304,84,Zeleni Venac,0:08:02.517483
+307,65,Novo Bežanijsko Groblje,0:08:15.857143
+311,43,Kotež,0:08:27.352941
+313,18,Zemun /Bačka/,0:08:24.347826
+317,83,Zemun /Bačka/,0:12:00
+320,43,Trg Republike,0:08:29.558824
+322,65,Zvezdara 2,0:08:27.352941
+325,26L,Vojvode Vlahovića (Terminus),0:08:27.731092
+328,35,Novi Beograd (Blok 20),0:08:39.047619
+331,35,Lešće /Groblje/,0:08:39.685039
+334,35L,Lešće /Groblje/,1:06:00
+335,9,Blok 45,0:08:52.031250
+336,7,Blok 45,0:09:10.781250
+341,13,Blok 45,0:12:20
+344,11,Blok 45,0:23:33.333333
+347,9,Banjica,0:08:54.375000
+350,10,Banjica,0:14:17.142857
+353,14,Banjica,0:17:30
+356,94,Resnik (Edvarda Griga),0:09:13.278689
+359,506,Resnik (Edvarda Griga),0:29:35
+362,40,Zvezdara,0:09:17.522124
+363,28,Zvezdara,0:09:57.435897
+369,77,Zvezdara,0:13:56.842105
+372,64,Zvezdara,0:38:10.909091
+374,7,Ustanička,0:09:26.129032
+377,5,Ustanička,0:11:16.530612
+380,14,Ustanička,0:17:30
+383,6,Ustanička,0:23:26.666667
+386,32,Vukov Spomenik,0:09:49.743590
+389,66,Vukov Spomenik,0:19:53.333333
+393,EKO1,Vukov Spomenik,0:24:05.454545
+395,52,Cerak Vinogradi,0:09:54.782609
+398,534,Cerak Vinogradi,0:26:49.090909
+401,21A,Učiteljsko Naselje,0:10:00
+404,52,Zeleni Venac,0:10:10.714286
+407,39,Kumodraž 1,0:10:11.320755
+410,32,Višnjica,0:10:13.274336
+413,32E,Višnjica,0:31:06.666667
+414,EKO2,Dorćol /Src Milan Gale Muškatirović/,0:10:14.423077
+415,79,Dorćol /Src Milan Gale Muškatirović/,0:12:36.976744
+418,24,Dorćol /Src Milan Gale Muškatirović/,0:13:23.571429
+423,EKO2,Beograd Na Vodi,0:10:14.423077
+424,601,Beograd Na Vodi,0:10:28.947368
+429,3A,Beograd Na Vodi,0:10:15.789474
+432,551,Beograd Na Vodi,0:18:00
+435,92,Beograd Na Vodi,0:26:05.853659
+438,91,Beograd Na Vodi,0:26:25.714286
+441,553,Beograd Na Vodi,0:45:27.272727
+444,75,Zeleni Venac,0:10:16.363636
+446,71,Zeleni Venac,0:13:35.853659
+450,67,Zeleni Venac,0:16:32.647059
+454,72,Zeleni Venac,0:31:03.157895
+458,60,Zeleni Venac,1:04:00
+459,60L,Zeleni Venac,1:04:17.142857
+460,601,Surčin,0:10:21.621622
+464,607,Surčin,1:31:52.500000
+466,101,Padinska Skela,0:10:23.478261
+469,107,Padinska Skela,0:57:53.684211
+472,102,Padinska Skela,0:58:45
+473,110,Padinska Skela,1:14:00
+478,109,Padinska Skela,1:16:25.714286
+479,101,Omladinski Stadion,0:10:23.684211
+480,105,Omladinski Stadion,0:16:16.056338
+483,104,Omladinski Stadion,0:23:45
+486,106,Omladinski Stadion,0:39:00
+491,74,Bežanijska Kosa,0:10:24.770642
+492,75,Bežanijska Kosa,0:10:44.859813
+497,70,Bežanijska Kosa,0:25:14.285714
+500,25,Karaburma 2,0:11:04.485981
+503,2,Pristanište,0:11:07.924528
+506,2,Pristanište,0:11:07.924528
+509,25,Kumodraž 2,0:11:10.754717
+512,308,Šumice - Okretnica,0:11:14.257426
+514,310,Šumice - Okretnica,0:20:11.538462
+520,38,Šumice - Okretnica,0:37:13.333333
+521,308,Vml,0:11:17.142857
+526,38,Vml,0:37:13.333333
+527,55,Stari Železnik,0:11:18.787879
+530,51,Bele Vode,0:11:19.411765
+533,55,Zvezdara,0:11:25.714286
+536,5,Tadeuša Košćuška,0:11:28.421053
+539,10,Tadeuša Košćuška,0:14:17.142857
+543,11,Tadeuša Košćuška,0:22:56.086957
+545,83,Mileševska,0:11:31.578947
+548,53,Zeleni Venac,0:11:43.030303
+551,12,Omladinski Stadion,0:11:47.142857
+554,73,Batajnica /Železnička Stanica/,0:11:59.354839
+557,703L1,Batajnica /Železnička Stanica/,0:21:34.444444
+560,12,Banovo Brdo,0:12:05
+561,13,Banovo Brdo,0:12:15.164835
+566,704,Zemun Polje,0:12:14.042553
+567,707,Zemun Polje,0:15:52.702703
+572,708,Zemun Polje,0:24:21.702128
+573,709,Zemun Polje,0:25:00
+578,307,Ustanička,0:12:18.461538
+579,311,Ustanička,0:19:20
+582,306,Ustanička,0:27:40.975610
+587,307,Vinča,0:12:21.758242
+590,704,Zeleni Venac,0:12:30
+591,707,Zeleni Venac,0:15:42.253521
+596,89,Vidikovac,0:12:35.294118
+600,504,Vidikovac,0:19:02.105263
+602,89,Novi Beograd /Blok 72/,0:12:36.976744
+605,302,Begaljica,0:12:58.651685
+608,E2,Trg Republike,0:13:06.086957
+611,77,Bežanijska Kosa,0:13:27.692308
+613,76,Bežanijska Kosa,0:48:03.333333
+616,706,Batajnica,0:13:09.655172
+619,302,Ustanička,0:13:14.318182
+620,305,Ustanička,0:14:22.500000
+621,304,Ustanička,0:21:13.584906
+626,303,Ustanička,0:34:13.125000
+631,706,Zeleni Venac,0:13:20
+634,505L,Miljakovačke Staze,0:13:23.846154
+636,505,Miljakovačke Staze,0:14:56.202532
+642,505R,Miljakovačke Staze,0:51:33.750000
+643,505L,Miljakovac 1,0:13:23.846154
+646,71,Ledine,0:13:37.857143
+649,603,Ledine,0:23:09.795918
+652,24,Neimar,0:13:44.096386
+655,49,Naselje Stepa Stepanović,0:14:05.070423
+658,305,Boleč,0:14:22.500000
+662,505,Miljakovac 1 – Okretnica,0:14:44.615385
+665,502,Miljakovac 1 – Okretnica,0:21:25.714286
+667,54,Miljakovac 1 – Okretnica,0:44:02.307692
+670,505R,Miljakovac 1 – Okretnica,0:51:33.750000
+673,611,Dobanovci /Groblje/,0:14:48.311688
+676,606,Dobanovci /Groblje/,0:38:40
+679,25P,Kumodraž (Stepina Kuća),0:15:04
+682,105,Ovča /Železnička Stanica/,0:16:04.285714
+683,105L,Ovča /Železnička Stanica/,0:21:43.846154
+688,67,Blok 70a,0:16:32.647059
+691,708,Blok 70a,0:23:48.260870
+694,76,Blok 70a,0:47:46.666667
+697,700,Batajnica /Železnička Stanica/,0:16:49.523810
+700,85,Borča 3,0:16:56.363636
+703,405,Voždovac,0:17:04.285714
+706,403,Voždovac,0:30:07.692308
+707,409,Voždovac,0:33:42.222222
+710,408,Voždovac,0:37:05.806452
+713,407,Voždovac,0:43:16.153846
+720,406,Voždovac,1:05:52.941176
+721,405,Glumčevo Brdo,0:17:04.285714
+725,405L,Glumčevo Brdo,0:38:24
+727,610,Jakovo,0:17:14.328358
+730,30,Medaković 2,0:17:30
+733,81,Altina 1,0:17:42.711864
+734,81L,Altina 1,0:18:28.474576
+739,551,Sremčica,0:18:09.230769
+742,311,Leštane (Ravan),0:18:56.129032
+745,531,13. Septembar,0:19:12.631579
+748,66,Naučno-Tehnološki Park ,0:19:33.333333
+751,309L,Put Za Institut,0:19:39.661017
+754,309L,Kaluđerica (Višnjićeva),0:19:40
+757,531,Banovo Brdo,0:19:49.090909
+758,532,Banovo Brdo,0:20:54.545455
+759,512,Banovo Brdo,0:26:13.170732
+760,533,Banovo Brdo,0:29:48.888889
+769,532,Oslobođenja 2,0:19:49.090909
+772,604,Preka Kaldrma,0:20:05.263158
+776,702L,Batajnica /Šangajska/,0:20:10.344828
+778,703L,Batajnica /Šangajska/,0:20:10.526316
+781,310,Mali Mokri Lug (Crkva),0:20:11.538462
+786,702L,Busije /Crkva/,0:20:15.254237
+787,703L,Ugrinovci,0:20:31.578947
+790,603,Ugrinovci,0:23:09.795918
+793,711,Ugrinovci,0:47:49.565217
+796,44,Žel. St. Dunav -Okretnica,0:21:13.469388
+799,402,Beli Potok,0:21:18.260870
+802,108,Reva /Duboka Bara/,0:21:24.905660
+805,304,Ritopek,0:21:24.905660
+809,502,Orlovača Groblje,0:21:25.714286
+811,533,Orlovača Groblje,0:29:48.888889
+814,108,Omladinski Stadion /Ulaz/,0:21:28.888889
+815,202,Omladinski Stadion /Ulaz/,0:25:34.090909
+820,35L,Omladinski Stadion /Ulaz/,1:06:00
+821,44,Topčidersko Brdo /Senjak/,0:21:30
+822,34,Topčidersko Brdo /Senjak/,0:22:58.571429
+827,605,Progar,0:21:47.547170
+830,703L1,Kej Oslobođenja,0:21:53.207547
+833,705,Kej Oslobođenja,0:50:00
+836,706E,Kej Oslobođenja,0:58:12.857143
+841,36,Železnička Stanica Bgd Centar,0:21:57.647059
+842,105L,Borča 3,0:22:02.400000
+845,401,Pinosava,0:22:03.529412
+850,36,Železnička Stanica Beograd Centar,0:22:18.461538
+851,20,Veliki Mokri Lug,0:22:42
+854,34,Pere Velimirovića,0:23:05.714286
+857,104,Crvenka,0:23:15.918367
+862,6,Tašmajdan /Park/,0:24:12.272727
+864,EKO1,Garaža Novi Beograd,0:24:01.304348
+866,709,Zemun (Novi Grad),0:24:13.333333
+869,68,Blok 70,0:25:37.500000
+874,92,Ostružnica /Karaula/,0:26:00
+875,202,Veliko Selo,0:26:02.790698
+880,70,Ikea,0:26:05.853659
+881,534,Ripanj /Groblje/,0:26:13.333333
+884,91,Ostružnica /Novo Naselje/,0:26:25.714286
+887,512,Sremčica /Naselje Gorica/,0:26:45
+892,513,Sremčica /Naselje Gorica/,0:42:00
+893,306,Leštane,0:27:54.285714
+896,602,Src Surčin,0:28:37.500000
+900,312,Mz Vml,0:29:00
+903,521,Vidikovac,0:29:07.894737
+905,521,Železnik /Tariš/,0:29:10
+908,506,Resnik (Patin Majdan),0:29:35
+913,38L,Železnička Stanica Beograd Centar,0:29:50.625000
+914,403,Zuce,0:29:52.307692
+918,38L,Pogon Kosmaj,0:30:00
+920,72,Aerodrom Nikola Tesla,0:30:50
+923,32E,Trg Republike,0:31:17.777778
+926,87,Čukarička Padina,0:33:37.241379
+929,87A,Čukarička Padina,0:38:10.909091
+930,56L,Čukarička Padina,0:48:27.692308
+932,409,Voždovac-Okretnica,0:33:42.222222
+935,406L,Voždovac-Okretnica,0:35:18.750000
+937,503,Voždovac-Okretnica,0:42:30
+940,303,Vrčin ,0:34:32.727273
+944,507,Rušanj (Drobnjački Kraj),0:35:00
+947,406L,Beli Potok (Igralište),0:35:09.375000
+951,513,Velika Moštanica (Živojina Tabakovića),0:42:24
+952,408,Ralja /Drumine/,0:36:46.451613
+955,106,Jabučki Rit,0:37:20
+958,64,Šumice,0:38:10.909091
+962,606,Grmovac /25.Nova/,0:38:40
+966,407L,Bela Reka,0:42:45
+968,407,Bela Reka,0:43:16.153846
+971,404,Bela Reka,1:05:52.941176
+975,407L,Trebež (Okretnica),0:43:00
+976,54,Mz Makiš,0:44:00
+979,553,Rucka /Okretnica/,0:45:27.272727
+983,613,Radiofar,0:45:30
+985,705,13. Maj,0:48:02.608696
+990,60,Toplana,0:57:30
+991,60L,Toplana,1:18:00
+992,501,Staro Kijevo,0:56:40
+995,107,Dunavac,0:57:15
+997,102,Vrbovski,0:58:09.473684
+999,706E,Aerodrom Batajnica,0:58:34.285714
+1004,406,Institut Jaroslav Černi,1:05:37.500000
+1006,404,Trešnja /Okretnica/,1:05:52.941176
+1010,110,Put Za Vrbovski,1:14:40
+1013,109,Put Za Dunavac,1:16:20
